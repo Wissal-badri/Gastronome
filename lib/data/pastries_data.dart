@@ -378,6 +378,83 @@ Assembly
 """
         },
       ];
+    } else if (countryName == "Italy") {
+      return [
+        {
+          "name": "Cannoli",
+          "desc": "Crispy fried pastry shells filled with sweet ricotta.",
+          "image": "assets/Italy/CannoliIT.png",
+          "fullRecipe": """
+Classic Sicilian Cannoli Recipe
+
+Cannoli Shells
+Ingredients
+- 2 cups all-purpose flour
+- 1 tbsp granulated sugar
+- 1/4 tsp salt
+- 1 tbsp + 2 tsp cold butter, cut into cubes
+- 1 large egg yolk
+- 1/2 cup white wine (Marsala or dry white wine)
+- Vegetable oil for deep frying
+- 1 egg white, slightly beaten (for sealing)
+
+Instructions
+1. Mix the Dough: Whisk flour, sugar, and salt. Cut in cold butter until coarse crumbs. Combine egg yolk and wine, add to flour. Mix until cohesive.
+2. Knead and Rest: Knead until smooth and elastic (5-10 mins). Wrap and refrigerate at least 1 hour (preferably overnight).
+3. Roll and Cut: Let dough sit 20 mins. Roll very thin (1/8-inch). Cut 3-4 inch circles.
+4. Form Shells: Wrap circles around metal cannoli tubes. Seal with egg white.
+5. Fry: Heat oil to 360°F (180°C). Fry 2-3 tubes at a time for 2-3 mins until golden and blistered.
+6. Cool: Drain on paper towels. Slide shells off molds while warm. Cool completely.
+
+Ricotta Filling
+Ingredients
+- 2 cups whole-milk ricotta cheese, drained overnight
+- 3/4 cup powdered sugar
+- 1 tsp ground cinnamon
+- 1/4 cup heavy cream, whipped (optional)
+- 1/2 cup mini chocolate chips, plus extra for garnish
+- Optional: chopped pistachios, candied orange peel
+
+Instructions
+1. Drain Ricotta: Ensure well-drained to prevent soggy filling.
+2. Mix Filling: Whisk ricotta with powdered sugar and cinnamon. Fold in whipped cream and chocolate chips.
+3. Chill: Cover and refrigerate at least 30 mins.
+
+Assembly
+1. Fill and Serve: Just before serving, pipe filling into cooled shells from both ends.
+2. Garnish: Dip ends in pistachios or chocolate chips. Dust with powdered sugar.
+"""
+        },
+        {
+          "name": "Tiramisu",
+          "desc": "Classic Italian coffee-flavored dessert.",
+          "image": "assets/Italy/TiramisuIT.png",
+          "fullRecipe": """
+Classic Tiramisu Recipe
+
+Ingredients
+- 6 large eggs, separated
+- 3/4 cup granulated sugar, divided
+- 16 oz (450g) mascarpone cheese, room temperature
+- 2 cups strong brewed espresso or coffee, cooled
+- About 24 boudoir biscuits (ladyfinger cookies)
+- Unsweetened cocoa powder, for dusting
+- Dark chocolate shavings (optional)
+
+Instructions
+1. Prepare the Coffee Mixture: Brew coffee and cool completely. Pour into shallow dish.
+2. Make the Yolk Mixture: In heatproof bowl over simmering water, whisk egg yolks and half the sugar until thick and pale (5-7 mins). Cool slightly.
+3. Mix in Mascarpone: Fold softened mascarpone into cooled yolk mixture until smooth.
+4. Whip Egg Whites: Beat egg whites to soft peaks. Add remaining sugar, beat to stiff glossy peaks.
+5. Combine Mixtures: Gently fold whipped whites into mascarpone mixture in batches.
+6. Assemble: Quickly dip each biscuit in coffee (1-2 seconds per side). Arrange in 9x13 inch dish. Spread half the mascarpone cream. Repeat layers.
+7. Chill: Cover and refrigerate at least 4 hours (preferably overnight).
+8. Serve: Dust generously with cocoa powder. Garnish with chocolate shavings. Serve chilled.
+
+Disclaimer: Contains raw or lightly cooked eggs.
+"""
+        },
+      ];
     }
     return [];
   }
