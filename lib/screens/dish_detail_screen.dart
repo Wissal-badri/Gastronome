@@ -136,16 +136,40 @@ class DishDetailScreen extends StatelessWidget {
         continue;
       }
 
-      // Check for Titles (Ingredients, Method, Part X) -> Bold, Italic, Underlined
-      if (line.trim().startsWith("Ingredients") || 
-          line.trim().startsWith("Method") || 
-          line.trim().startsWith("Part")) {
+      final trimmedLine = line.trim();
+      
+      // Check for Main Titles (Recipe names, Instructions, Equipment, etc.) -> Bold, Italic, Underlined
+      // Patterns: ends with "Recipe", starts with "Instructions", "Equipment", "Disclaimer", 
+      // "Ingredients", "Method", "Part", "Day", or is a standalone section header
+      bool isMainTitle = trimmedLine.endsWith("Recipe") ||
+                         trimmedLine.startsWith("Instructions") ||
+                         trimmedLine.startsWith("Equipment") ||
+                         trimmedLine.startsWith("Disclaimer") ||
+                         trimmedLine.startsWith("Ingredients") ||
+                         trimmedLine.startsWith("Ingredient") ||
+                         trimmedLine.startsWith("Method") ||
+                         trimmedLine.startsWith("Part ") ||
+                         trimmedLine.startsWith("Day ") ||
+                         trimmedLine.startsWith("Assembly") ||
+                         trimmedLine.startsWith("Cannoli Shells") ||
+                         trimmedLine.startsWith("Ricotta Filling") ||
+                         RegExp(r'^Part \d+:?').hasMatch(trimmedLine) ||
+                         RegExp(r'^Day \d+:?').hasMatch(trimmedLine) ||
+                         (trimmedLine.length < 50 && 
+                          !trimmedLine.startsWith("-") && 
+                          !trimmedLine.startsWith("•") &&
+                          !trimmedLine[0].isDigit &&
+                          trimmedLine.contains(RegExp(r'^[A-Z]')) &&
+                          !trimmedLine.contains(":") &&
+                          trimmedLine.split(" ").length <= 6);
+
+      if (isMainTitle) {
         widgets.add(
           Padding(
             padding: const EdgeInsets.only(top: 16, bottom: 8),
             child: Text(
-              line.trim(),
-              style: GoogleFonts.playfairDisplay( // Classy font for headers
+              trimmedLine,
+              style: GoogleFonts.playfairDisplay(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
                 fontStyle: FontStyle.italic,
@@ -157,13 +181,14 @@ class DishDetailScreen extends StatelessWidget {
           ),
         );
       } 
-      // Check for Subsections (For the...) -> Bold Only
-      else if (line.trim().startsWith("For ")) {
+      // Check for Subsections (For the..., Component, etc.) -> Bold Only
+      else if (trimmedLine.startsWith("For ") || 
+               trimmedLine.startsWith("Component")) {
          widgets.add(
           Padding(
             padding: const EdgeInsets.only(top: 8, bottom: 4),
             child: Text(
-              line.trim(),
+              trimmedLine,
               style: GoogleFonts.lato(
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
@@ -177,8 +202,8 @@ class DishDetailScreen extends StatelessWidget {
       else {
         widgets.add(
           Text(
-            line.trim(),
-            style: GoogleFonts.lato( // Classy body font
+            trimmedLine,
+            style: GoogleFonts.lato(
               fontSize: 16,
               height: 1.5,
               color: AppTheme.deepCharcoal.withOpacity(0.9),

@@ -453,6 +453,56 @@ Instructions
 
 Disclaimer: Contains raw or lightly cooked eggs.
 """
+        {
+          "name": "Sfogliatella",
+          "desc": "Layered shell-shaped pastry with ricotta filling.",
+          "image": "assets/Italy/SfogliatellaIT.png",
+          "fullRecipe": """
+Classic Sfogliatella Recipe
+
+Ingredients
+For the Dough:
+- 3 cups (500g) bread flour (high protein)
+- ¾ cup + additional water (190ml)
+- 1 tbsp honey
+- 1 tsp salt
+- ½ cup (150g) lard, softened
+
+For the Filling:
+- 1 cup (240ml) water
+- ½ cup (110g) sugar
+- ¾ cup (140g) fine semolina flour
+- 1 lb (450g) whole milk ricotta, well-drained
+- 1 large egg
+- 1 tbsp vanilla extract
+- ½ tsp ground cinnamon
+- ¼ cup finely chopped candied orange peel (optional)
+
+For Assembly:
+- Confectioners' sugar for dusting
+
+Instructions
+Part 1: Prepare the Filling (can be made the day before)
+1. Cook Semolina: Bring water, sugar, and pinch of salt to boil. Whisk in semolina until thick paste forms (3 mins).
+2. Cool: Transfer to bowl and cool completely.
+3. Mix Filling: Beat cooled semolina, drained ricotta, egg, vanilla, cinnamon, and candied orange peel until smooth.
+4. Chill: Cover and refrigerate until ready to use.
+
+Part 2: Prepare the Dough (requires pasta machine)
+1. Mix Dough: Combine flour, water, honey, and salt. Knead until smooth and elastic (5-10 mins).
+2. Rest: Wrap in plastic, rest 30 minutes.
+3. Roll in Pasta Machine: Divide dough and pass through pasta machine, starting widest setting. Fold and pass through, gradually decreasing thickness until paper-thin.
+4. Layer and Roll: Lay thin sheet on surface, brush generously with softened lard. Tightly roll into cylinder. Repeat with remaining dough, wrapping each sheet around existing cylinder.
+5. Chill the Log: Wrap final log tightly, chill 3 hours or overnight until firm.
+
+Part 3: Assemble and Bake
+1. Preheat Oven: 400°F (200°C). Line baking sheet with parchment.
+2. Slice Dough: Cut chilled log into ¾ inch (1.5-2 cm) slices.
+3. Form Cones: Place slice cut-side down. Press center outwards while rotating to form cone shape.
+4. Fill: Spoon ricotta filling into cavity. Pinch edges to seal.
+5. Bake: Bake 20-30 minutes until golden brown and crispy.
+6. Serve: Cool slightly, dust with confectioners' sugar. Serve warm.
+"""
         },
       ];
     }
