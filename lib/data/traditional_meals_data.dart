@@ -400,6 +400,127 @@ Day 2: Assemble and Bake
 """
         },
       ];
+    } else if (countryName == "Italy") {
+      return [
+        {
+          "name": "Braciole",
+          "desc": "Stuffed beef rolls braised in tomato sauce.",
+          "image": "assets/Italy/BracioleIT.png",
+          "fullRecipe": """
+Italian Braciole Recipe
+
+Ingredients
+For the Braciole Rolls:
+- 2 lbs (900g) flank steak or top round beef, sliced thin
+- 8 slices prosciutto (optional)
+- ½ cup seasoned breadcrumbs
+- ¾ cup grated Parmesan or Pecorino Romano
+- ½ cup fresh Italian parsley, chopped
+- 3 cloves garlic, minced
+- 2 Tbsp olive oil (for filling)
+- Salt and black pepper to taste
+- Kitchen twine or toothpicks
+
+For the Sauce & Braising:
+- 2 Tbsp olive oil (for searing)
+- 1 medium onion, finely diced
+- 2 cloves garlic, minced
+- ½ cup dry red or white wine (optional)
+- Two 28-oz cans crushed tomatoes
+- Fresh basil leaves
+
+Instructions
+1. Prepare the Filling: Combine breadcrumbs, cheese, parsley, garlic, salt, pepper, and 2 Tbsp olive oil. Mix until cohesive.
+2. Prep the Meat: Lay beef slices flat. Pound to ¼ inch thick. Season with salt and pepper. Layer prosciutto, then spread breadcrumb mixture.
+3. Roll and Secure: Tightly roll each piece from short end. Secure with twine or toothpicks.
+4. Sear the Braciole: Heat 2 Tbsp olive oil in Dutch oven over medium-high. Brown rolls on all sides. Remove and set aside.
+5. Make the Sauce: Reduce heat to medium. Cook onion until soft (5-10 mins). Add garlic (1 min).
+6. Deglaze and Simmer: Add wine, scrape bottom. Reduce by half. Add crushed tomatoes and basil.
+7. Braise: Nestle braciole into sauce. Simmer, reduce to low, cover. Cook 1.5-2 hours until tender. Rotate occasionally.
+8. Serve: Remove braciole, rest. Remove twine/toothpicks. Slice into 1-inch rounds. Serve with sauce over pasta.
+"""
+        },
+        {
+          "name": "Pasta alla Norma",
+          "desc": "Sicilian pasta with eggplant and ricotta salata.",
+          "image": "assets/Italy/PastaAllaNormaIT.png",
+          "fullRecipe": """
+Pasta alla Norma Recipe
+
+Ingredients
+- 1 lb (450g) spaghetti
+- 2 medium large eggplants
+- Olive oil (at least ½ cup for frying)
+- 28 oz (800g) canned crushed tomatoes
+- 1 small onion, finely chopped
+- 3-4 garlic cloves, minced
+- 1 cup fresh basil leaves, torn, plus more for garnish
+- ¾ cup ricotta salata, grated (or feta/Pecorino Romano)
+- Salt and black pepper to taste
+
+Instructions
+1. Prepare Eggplant: Slice eggplant into ½-inch rounds or 1-inch cubes. Sprinkle with salt, place in colander 15-30 mins. Rinse and pat dry.
+2. Cook Eggplant: Fry in batches in hot olive oil until golden brown and tender. Drain on paper towels. Season with salt and pepper.
+3. Make the Sauce: In same skillet (drain excess oil), add fresh olive oil. Sauté onion until soft (5 mins). Add garlic (1 min). Add crushed tomatoes, basil, salt, pepper. Simmer 20 mins until thickened.
+4. Cook Pasta: Boil salted water, cook spaghetti until al dente. Reserve 1 cup pasta water, then drain.
+5. Combine and Serve: Add cooked eggplant and drained pasta to sauce. Toss to coat, adding pasta water if needed.
+6. Garnish: Transfer to bowls. Top with ricotta salata and fresh basil. Serve immediately.
+"""
+        },
+        {
+          "name": "Chicken Alfredo",
+          "desc": "Creamy fettuccine with seasoned chicken.",
+          "image": "assets/Italy/ChickenAlfredoIT.png",
+          "fullRecipe": """
+Classic Chicken Alfredo Recipe (30 Minutes)
+
+Ingredients
+- 1 lb boneless, skinless chicken breasts
+- 10 oz fettuccine pasta
+- 3 tbsp olive oil, divided
+- 4 tbsp butter
+- 3 cloves garlic, minced
+- 1 cup heavy cream
+- 1 ½ cups freshly grated Parmesan cheese, plus more for garnish
+- 1 tsp Italian seasoning
+- Salt and black pepper to taste
+- Fresh parsley, chopped, for garnish
+
+Instructions
+1. Cook the Pasta: Boil salted water. Cook fettuccine until al dente. Reserve ½ cup pasta water before draining.
+2. Cook the Chicken: Slice chicken into thin cutlets. Season with salt, pepper, Italian seasoning. Heat 2 Tbsp olive oil in skillet over medium-high. Cook chicken 3-5 mins per side until golden (165°F internal). Remove, rest covered.
+3. Make the Alfredo Sauce: In same skillet, melt butter over medium heat. Add garlic, cook 30 seconds. Pour in heavy cream, simmer gently. Stir in Parmesan until melted and thickened. Season with salt and pepper.
+4. Combine and Serve: Add drained pasta to sauce, toss to coat. Add pasta water if too thick. Slice chicken into strips, add to pasta. Toss to combine. Serve with parsley and extra Parmesan.
+"""
+        },
+        {
+          "name": "Pizza Margherita",
+          "desc": "Traditional Neapolitan pizza with tomato, mozzarella, and basil.",
+          "image": "assets/Italy/PizzaMargheritaIT.png",
+          "fullRecipe": """
+Traditional Neapolitan Pizza Margherita
+
+Ingredients (for one 10-12 inch pizza)
+- Dough: One ball traditional Neapolitan pizza dough (250-330g)
+- Sauce: 80-100g (⅓-½ cup) San Marzano tomatoes, crushed by hand
+- Cheese: 100g (3.5 oz) fresh mozzarella, torn and patted dry
+- Aromatics: Fresh basil leaves, sea salt, extra virgin olive oil
+
+Instructions
+Step 1: Prepare the oven and dough
+Preheat oven to highest temperature (480-500°F or 250-260°C) with pizza stone/steel inside for 45-60 mins. On lightly floured surface, gently stretch dough into round, leaving edges thicker for crust.
+
+Step 2: Assemble the toppings
+Spoon crushed tomatoes onto dough in thin, even layer, leaving 1-inch border. Season lightly with salt. Distribute torn mozzarella over sauce. Add fresh basil leaves.
+
+Step 3: Bake the pizza
+Transfer pizza to preheated stone/steel using pizza peel. Bake 4-7 minutes until crust is puffed, golden brown, lightly charred, and cheese is melted and bubbly.
+
+Step 4: Finalize and serve
+Remove from oven. Drizzle generously with extra virgin olive oil. Slice and serve immediately.
+"""
+        },
+      ];
     }
     return [];
   }
