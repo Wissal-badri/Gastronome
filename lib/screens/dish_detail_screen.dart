@@ -158,7 +158,7 @@ class DishDetailScreen extends StatelessWidget {
                          (trimmedLine.length < 50 && 
                           !trimmedLine.startsWith("-") && 
                           !trimmedLine.startsWith("•") &&
-                          !trimmedLine[0].isDigit &&
+                          !RegExp(r'^[0-9]').hasMatch(trimmedLine) &&
                           trimmedLine.contains(RegExp(r'^[A-Z]')) &&
                           !trimmedLine.contains(":") &&
                           trimmedLine.split(" ").length <= 6);

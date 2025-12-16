@@ -453,6 +453,7 @@ Instructions
 
 Disclaimer: Contains raw or lightly cooked eggs.
 """
+        },
         {
           "name": "Sfogliatella",
           "desc": "Layered shell-shaped pastry with ricotta filling.",
