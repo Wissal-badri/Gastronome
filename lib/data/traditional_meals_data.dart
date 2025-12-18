@@ -521,6 +521,85 @@ Remove from oven. Drizzle generously with extra virgin olive oil. Slice and serv
 """
         },
       ];
+    } else if (countryName == "Japan") {
+      return [
+        {
+          "name": "Beef Shoyu Ramen",
+          "desc": "Rich beef broth ramen with wheat noodles and seared beef.",
+          "image": "assets/Japan/BeefRamenJP.png",
+          "fullRecipe": """
+Beef Shoyu Ramen
+Yields: 4 servings | Prep time: 20 mins | Cook time: 1–3 hours (depending on beef cut)
+
+Ingredients
+The Beef & Broth:
+- 1 lb Beef Brisket or Chuck (sliced thin)
+- 8 cups Beef Stock (high quality, unsalted)
+- 3 cloves Garlic, smashed
+- 2-inch piece of Ginger, sliced
+- 2 tbsp Vegetable Oil
+The Seasoning (Alcohol-Free Tare):
+- 1/3 cup Soy Sauce
+- 1 tbsp Rice Vinegar (check that it is labeled "non-alcoholic")
+- 1 tbsp Brown Sugar or Honey
+- 1 tsp Sesame Oil
+The Bowls:
+- 4 portions Ramen Noodles (Wheat noodles)
+- Garnish: Soft-boiled eggs, sliced green onions, nori sheets, and chili oil.
+
+Instructions
+1. Infuse the Broth: In a large pot, bring the beef stock, ginger, and garlic to a simmer. Cover and let it cook on low for at least 30 minutes to develop a deep, aromatic base.
+2. Prepare the Seasoning Base: In a small bowl, whisk together the soy sauce, rice vinegar, brown sugar, and sesame oil. This mixture replaces the traditional sweet rice wines with a balance of acidity and sweetness.
+3. Sear the Beef:
+- Heat vegetable oil in a skillet over high heat.
+- Season the beef slices with salt and pepper.
+- Sear the beef quickly (1–2 minutes per side) until browned and slightly crisp on the edges. Set aside.
+4. Cook the Noodles: Boil a separate pot of water and cook the ramen noodles according to the package directions. Drain well.
+5. Assembly:
+- Place 2 tablespoons of the Seasoning Base into the bottom of each serving bowl.
+- Ladle 2 cups of the hot, strained broth into each bowl and stir to combine with the base.
+- Divide the noodles among the bowls.
+- Top with the seared beef slices, half a soft-boiled egg, green onions, and a square of nori.
+
+Tips for Success
+- Richness: For a "creamy" beef broth without using dairy, you can whisk in a teaspoon of Tahini or peanut butter into the seasoning base.
+- Authenticity: Use a Fine Mesh Strainer to remove the ginger and garlic pieces from your broth before serving for a clear, professional appearance.
+"""
+        },
+        {
+          "name": "Classic Beef Udon (Niku Udon)",
+          "desc": "Thick udon noodles with savory sliced beef in dashi broth.",
+          "image": "assets/Japan/BeefUdon.png",
+          "fullRecipe": """
+Classic Beef Udon (Niku Udon)
+Yields: 2–3 servings
+
+Ingredients
+Noodles & Broth:
+- 2 servings fresh or frozen udon noodles
+- 3 cups dashi (Japanese soup stock)
+- 2 tbsp soy sauce
+- 1 tsp sugar
+- Pinch of salt (to taste)
+Beef Topping:
+- 7–8 oz (about 200g) thinly sliced beef (ribeye or shabu-shabu style)
+- 1/2 onion, thinly sliced
+- 1 tbsp soy sauce
+- 1 tbsp water
+- 1 tsp vegetable oil
+Garnish:
+- Thinly sliced green onions (scallions)
+
+Instructions
+1. Prepare the Topping Sauce: In a small bowl, whisk together the 1 tbsp soy sauce, 1 tbsp water, and 1 tsp sugar until the sugar dissolves. Set aside.
+2. Sauté the Beef & Onion: Heat the vegetable oil in a skillet over medium heat. Add the sliced onion and sauté slowly until it softens and turns translucent. Add the thinly sliced beef and cook until almost fully browned, breaking up the pieces.
+3. Combine & Simmer Topping: Pour the sauce mixture over the beef and onions. Increase the heat to medium-high and simmer for 1-2 minutes until the beef is fully cooked and coated in the sauce. Remove from heat.
+4. Prepare the Broth: In a separate large pot, bring the dashi stock, 2 tbsp soy sauce, and a pinch of salt to a boil.
+5. Cook Noodles: Cook the udon noodles according to package directions in a separate pot of boiling water. Drain well and place them into individual serving bowls.
+6. Assemble and Serve: Ladle the hot dashi broth over the noodles. Top each bowl generously with the savory beef and onion mixture, and finish with a sprinkle of fresh green onions.
+"""
+        },
+      ];
     }
     return [];
   }
