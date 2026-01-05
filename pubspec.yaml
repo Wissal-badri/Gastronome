@@ -63,6 +63,7 @@ flutter:
     - assets/Morocco/
     - assets/France/
     - assets/Italy/
+    - assets/Japan/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

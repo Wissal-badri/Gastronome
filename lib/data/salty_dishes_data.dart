@@ -283,6 +283,32 @@ Cooking Tips
 - Avoid Overcooking: Chicken thighs are preferred over breasts because they stay juicy and tender even under high heat.
 """
         },
+        {
+          "name": "Salmon Onigiri",
+          "desc": "Japanese rice balls filled with savory grilled salmon.",
+          "image": "assets/Japan/Onigiri.png",
+          "fullRecipe": """
+Classic Salmon Onigiri (Rice Balls)
+Yields: 4–6 onigiri
+
+Ingredients
+- 2 cups Japanese short-grain rice
+- 2 ½ cups water
+- 1 portion grilled salmon (flaked)
+- Salt (for seasoning hands)
+- Nori sheets (cut into strips)
+- Optional: Furikake or sesame seeds
+
+Instructions
+1. Prepare the Rice: Wash the rice thoroughly. Cook with water in a rice cooker or pot. Let it steam for 10 minutes after cooking.
+2. Prepare the Filling: Flake the grilled salmon and mix with a little salt or soy sauce if desired.
+3. Shape the Onigiri: Wet your hands with water and rub with salt. Take a handful of warm rice and create a small well in the center.
+4. Add Filling: Place a teaspoon of salmon filling into the well.
+5. Form Triangle: Gently fold the rice over the filling and press between your palms to form a triangle shape.
+6. Wrap with Nori: Wrap a strip of nori around the bottom or the whole onigiri.
+7. Serve: Garnish with sesame seeds if desired. Eat fresh!
+"""
+        },
       ];
     }
     return [];
