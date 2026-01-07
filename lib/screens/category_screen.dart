@@ -16,7 +16,7 @@ class CategoryScreen extends StatelessWidget {
   // Updated List with Morocco first
   final List<String> countries = const [
     "Morocco", "France", "Italy", "Japan", "USA", "Spain",
-    "Turkey", "India", "Lebanon", "Mexico", "China"
+    "Turkey", "India", "Lebanon", "Mexico", "China", "Canada"
   ];
 
   // Helper to get flag emoji
@@ -33,6 +33,7 @@ class CategoryScreen extends StatelessWidget {
       "Lebanon": "🇱🇧",
       "Mexico": "🇲🇽",
       "China": "🇨🇳",
+      "Canada": "🇨🇦",
     };
     return flags[country] ?? "🏳️";
   }

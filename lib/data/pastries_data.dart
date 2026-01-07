@@ -377,6 +377,89 @@ Assembly
 3. Mature: Refrigerate 24 hours for best texture. Serve at room temp.
 """
         },
+        {
+          "name": "Strawberry Charlotte",
+          "desc": "Ring of ladyfingers with strawberry Bavarian cream.",
+          "image": "assets/France/CharlotteFraiseFR.png",
+          "fullRecipe": """
+Classic French Charlotte aux Fraises (Strawberry Charlotte)
+This classic French Charlotte aux Fraises consists of a ring of ladyfingers surrounding a light, airy strawberry Bavarian cream.
+
+Ingredients
+For the Shell & Base:
+- Ladyfingers (Sponge Fingers): Approx. 30–40 biscuits (enough to line the sides and bottom of your mold).
+- Simple Syrup: 1/2 cup water and 1/3 cup sugar, boiled and cooled. (Optional: add 1 tbsp lemon juice or strawberry liqueur).
+
+For the Strawberry Mousse (Bavarian Cream):
+- Fresh Strawberries: 1 lb (500g), hulled. Reserve some for decoration; puree the rest.
+- Heavy Cream: 1 ½ cups (350ml), well chilled for whipping.
+- Sugar: 1/2 cup (100g).
+- Gelatin: 1 tbsp (or 4–5 sheets), bloomed in 1/4 cup cold water.
+- Vanilla Extract: 1 tsp.
+
+Instructions
+1. Prepare the Strawberry Base
+Puree the strawberries with the sugar using a blender. Warm about 1/3 of this puree in a saucepan, then stir in the bloomed gelatin until completely dissolved. Mix this back into the remaining cold puree and add the vanilla.
+
+2. Whip the Cream
+In a chilled bowl, whip the heavy cream until stiff peaks form. Gently fold the strawberry-gelatin mixture into the whipped cream using a spatula until smooth and uniform.
+
+3. Assemble the Shell
+Trim the biscuits: Lightly cut one end off the ladyfingers so they can stand upright.
+Dip & Line: Quickly dip the non-sugared side of each ladyfinger into the syrup. Line the walls of a 7 or 8-inch springform pan with the biscuits, sugared side facing outward.
+The Base: Line the bottom of the pan with more syrup-dipped ladyfingers, trimming them to fit snugly.
+
+4. Fill and Chill
+Pour half of the strawberry mousse over the bottom layer of biscuits.
+(Optional) Add a middle layer of sliced strawberries or more ladyfingers.
+Pour in the remaining mousse and smooth the top with a spatula.
+Chill: Refrigerate for at least 4 to 6 hours, or ideally overnight, to let the gelatin set.
+
+5. Serve
+Carefully remove the springform ring. Decorate the top with fresh whole or sliced strawberries. For a classic finish, tie a decorative ribbon around the biscuits before serving.
+"""
+        },
+        {
+          "name": "Paris-Brest",
+          "desc": "Crisp choux pastry ring with hazelnut praline cream.",
+          "image": "assets/France/ParisBrestFR.png",
+          "fullRecipe": """
+Classic Paris-Brest Recipe
+This recipe yields a classic Paris-Brest for 8 people, featuring a crisp choux pastry ring and a rich hazelnut praline mousseline cream.
+
+1. Praline Paste (The Heart)
+If you don't buy store-bought, make this first.
+Ingredients: 150g hazelnuts, 150g almonds, 200g sugar, 50ml water.
+Method: Make a dry caramel with sugar and water. Pour over toasted nuts. Once cooled and hardened, blend in a high-speed processor until it turns into a liquid paste.
+
+2. Choux Pastry (The Ring)
+Ingredients: 125ml water, 125ml milk, 110g butter, 5g sugar, 5g salt, 150g flour, 4 to 5 eggs, flaked almonds.
+Method:
+- Boil water, milk, butter, salt, and sugar.
+- Remove from heat, add flour all at once, and stir vigorously until a dough forms.
+- Return to heat for 1 minute to dry out the dough (it should leave a film on the pan).
+- Transfer to a bowl. Add eggs one by one, mixing until the dough is silky and forms a "V" shape on the spatula.
+- Pipe: Draw a 22cm (9-inch) circle on parchment paper. Pipe a thick ring, then sprinkle with flaked almonds.
+- Bake: 180°C (350°F) for 35–40 minutes. Do not open the oven during baking. Let cool on a wire rack.
+
+3. Praline Mousseline Cream
+Ingredients: 500ml milk, 100g sugar, 4 egg yolks, 50g cornstarch, 200g softened butter, 150g praline paste.
+Method:
+- Pastry Cream: Boil milk. Whisk yolks with sugar and cornstarch. Pour half the hot milk over the yolks, whisk, then return everything to the pot. Cook until thickened.
+- Whisk in 100g of the butter and the praline paste while hot.
+- Cover with plastic wrap (touching the surface) and chill until it reaches room temperature.
+- The Whip: Whisk the remaining 100g of softened butter. Gradually add the cooled pastry cream while whisking at high speed until light and airy.
+
+4. Assembly
+- Slice the cooled choux ring horizontally using a serrated knife.
+- Pipe a thin layer of cream in the bottom.
+- Optional Chef’s Tip: Pipe small dots of pure praline paste for a "molten heart" effect.
+- Pipe generous, tall swirls of the mousseline cream over the base.
+- Place the top half of the ring back on.
+- Dust with powdered sugar before serving.
+For a visual guide on the piping technique, you can view professional demonstrations on the King Arthur Baking or Serious Eats websites.
+"""
+        },
       ];
     } else if (countryName == "Italy") {
       return [

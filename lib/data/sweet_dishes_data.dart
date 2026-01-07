@@ -105,6 +105,112 @@ Instructions
 """
         },
       ];
+    } else if (countryName == "USA") {
+      return [
+        {
+          "name": "Fluffy Pancakes",
+          "desc": "Classic American-style fluffy pancakes.",
+          "image": "assets/USA/PancakesUS.png",
+          "fullRecipe": """
+Classic American-Style Fluffy Pancakes
+Here is a simple and delicious recipe for classic American-style fluffy pancakes.
+
+Ingredients
+- 1 ½ cups all-purpose flour
+- 3 ½ tsp baking powder
+- 1 tsp salt
+- 2 Tbsp sugar
+- 1 large egg
+- 1 ¼ cups milk
+- 3 Tbsp unsalted butter, melted (plus extra for frying and serving)
+- 1 tsp vanilla extract (optional)
+- Optional toppings: maple syrup, fresh berries, sliced bananas, whipped cream
+
+Instructions
+Step 1: Combine the dry ingredients
+In a large bowl, whisk together the flour, sugar, baking powder, and salt.
+
+Step 2: Combine the wet ingredients
+In a separate medium bowl, whisk the milk, egg, melted butter, and vanilla extract (if using) until smooth and well blended.
+
+Step 3: Mix the batter
+Pour the wet mixture into the dry ingredients. Stir gently with a spatula or whisk until just combined. It is okay if the batter is a little lumpy; do not overmix, as this can make the pancakes tough. Let the batter rest for 5 to 10 minutes while the pan heats up.
+
+Step 4: Cook the pancakes
+Heat a non-stick skillet or griddle over medium heat. Lightly grease the surface with a little butter or oil. Pour ¼ cup of batter onto the hot pan for each pancake. Cook for 2 to 3 minutes, until bubbles form on the surface and the edges look set.
+
+Step 5: Flip and serve
+Flip the pancakes carefully with a thin spatula and cook for an additional 1 to 2 minutes, until golden brown on the other side. Repeat the process with the remaining batter. Serve the pancakes warm, stacked on a plate, with your favorite toppings.
+"""
+        },
+        {
+          "name": "Cinnamon Rolls",
+          "desc": "Soft yeast rolls with cinnamon-sugar filling and cream cheese frosting.",
+          "image": "assets/USA/CinnamonRollsUS.png",
+          "fullRecipe": """
+Cinnamon Rolls
+Cinnamon rolls are a world-famous pastry made from a leavened yeast dough, filled with a sweet cinnamon-sugar butter, and typically finished with a rich cream cheese frosting.
+
+Key Ingredients
+Dough: Warm milk, active dry or instant yeast, sugar, melted butter, eggs, and all-purpose or bread flour.
+Filling: Softened butter, brown sugar (for a deep caramel flavor), and plenty of ground cinnamon.
+Frosting: Softened cream cheese, butter, powdered sugar, vanilla extract, and a splash of milk.
+
+Essential Equipment
+To make professional-quality rolls, you will need:
+- Stand Mixer: With a dough hook attachment (or a large bowl if kneading by hand).
+- Rolling Pin: To roll the dough into a large, even rectangle.
+- 9x13 inch Baking Pan: Glass or ceramic pans are excellent for keeping the edges soft.
+- Unflavored Dental Floss: The secret "pro tip" to slicing the rolls cleanly without squashing the delicate layers of dough.
+
+Simple Steps to Perfection
+1. The Dough: Mix and knead the dough until smooth and elastic. Let it rise in a warm spot until doubled in size (usually 1.5 to 2 hours).
+2. The Assembly: Roll the dough into a rectangle, spread it with softened butter, and sprinkle generously with the cinnamon-sugar mix.
+3. The Roll: Roll it up tightly into a log. Use dental floss to "cross-cut" the log into 12 even rolls.
+4. Second Rise: Place the rolls in a greased pan, cover, and let them rise again for about 30–45 minutes. This ensures they are light and fluffy.
+5. Baking: Bake at 350°F (175°C) for 20–25 minutes until lightly golden brown.
+6. The Finish: While the rolls are still warm, spread the cream cheese frosting over them so it melts slightly into the spirals.
+"""
+        },
+        {
+          "name": "New York Roll",
+          "desc": "Circular laminated pastry, also known as a Suprême.",
+          "image": "assets/USA/NewYorkRollsUS.png",
+          "fullRecipe": """
+New York Roll (The Suprême)
+Making a New York Roll (also known as a Suprême) involves three main stages: creating the laminated pastry, baking them in circular molds to maintain their shape, and filling/decorating them.
+
+1. Ingredients
+Pastry: 250g flour, 120g cold water, 1 tsp instant yeast, 10g caster sugar, ½ tsp salt, and 180g cold unsalted butter (for laminating).
+Filling: 180g pastry cream (vanilla or pistachio) or hazelnut spread.
+Topping: 100g melted chocolate, chopped nuts (pistachios or hazelnuts), and simple syrup for glazing.
+
+2. Instructions
+Step 1: Prepare the Dough (Détrempe)
+- Mix: Combine flour, sugar, salt, yeast, and water in a stand mixer. Knead for about 7 minutes until smooth.
+- Rest: Wrap the dough and refrigerate for at least 30 minutes.
+
+Step 2: Lamination (Creating Layers)
+- Butter Block: Flatten your cold butter between parchment paper into a square.
+- Lock-in: Roll the dough into a rectangle twice the size of the butter. Place the butter in the center and fold the dough over it.
+- Turns: Roll the dough out and fold it into thirds (like a letter). Repeat this "turn" 2–3 times, chilling the dough for 30–45 minutes between each turn to keep the butter from melting.
+
+Step 3: Shaping and Proofing
+- Roll and Cut: Roll the final dough into a large rectangle (approx. 60x12 cm). Starting from the long edge, roll the dough tightly into a log.
+- Molding: Cut the log into 3.5 cm thick discs. Place each disc into a greased 10 cm circular pastry ring on a baking tray.
+- Proof: Let them rise in a warm place for about 1.5 to 2 hours until they nearly fill the rings.
+
+Step 4: Baking
+- Weight them down: Place a sheet of parchment paper and a second heavy baking tray on top of the rings. This prevents the rolls from rising vertically and forces them to keep their circular shape.
+- Bake: Bake at 200°C (400°F) for 15–20 minutes, then remove the top tray and bake for another 10–15 minutes until golden brown.
+- Glaze: Brush with simple syrup and return to the oven for 2 minutes for a caramelized finish.
+
+Step 5: Filling and Finishing
+- Fill: Once completely cool, use a knife or a Bismarck piping tip to poke two holes in the top or side. Inject pastry cream generously until the roll feels heavy.
+- Decorate: Dip the top of the roll into melted chocolate or hazelnut spread. Sprinkle with crushed nuts or brittle before the chocolate sets.
+"""
+        },
+      ];
     }
     return [];
   }

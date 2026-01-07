@@ -210,6 +210,42 @@ Instructions
 7. Cool and Serve: Cool 10-15 mins before slicing.
 """
         },
+        {
+          "name": "Salers Beef",
+          "desc": "Salers Beef steak with Bleu d'Auvergne sauce.",
+          "image": "assets/France/ViandeSaleersBleuAuvergne.png",
+          "fullRecipe": """
+Salers Beef with Bleu d'Auvergne
+Here is the recipe for Salers Beef with Bleu d'Auvergne.
+
+Ingredients (for 4 servings)
+Meat: 4 Salers beef pavés (steaks), approximately 160 g to 180 g each.
+Cheese: 150 g of Bleu d'Auvergne AOP cheese.
+Sauce:
+- 2 chopped shallots.
+- 20 cl of beef stock.
+- 40 cl of liquid cream.
+Seasoning: Salt and freshly ground pepper.
+
+Preparation Steps
+1. Prepare the Blue Cheese Sauce:
+- In a saucepan, brown the chopped shallots for about 2 minutes.
+- Add the beef stock and liquid cream. Let it reduce over low heat until the sauce thickens (about 5 minutes).
+- Stir in the Bleu d'Auvergne cut into small cubes. Mix gently until the cheese is melted and the sauce is smooth.
+
+2. Cook the Salers Beef:
+- Remove the meat from the refrigerator 30 minutes before cooking so it reaches room temperature.
+- Sear the steaks in a very hot pan with a little fat.
+- Cook for about 2 to 3 minutes per side for rare, or according to your preference. Season after cooking.
+
+3. Serve:
+Generously spoon the hot Bleu d'Auvergne sauce over the beef pavés.
+
+Suggested Accompaniments
+Serve with a traditional truffade or aligot to stay with the Auvergne theme.
+For wine pairing, a local red wine such as a Boudes (Côtes-d'Auvergne) pairs perfectly with this dish.
+"""
+        },
       ];
     } else if (countryName == "Japan") {
       return [
@@ -307,6 +343,39 @@ Instructions
 5. Form Triangle: Gently fold the rice over the filling and press between your palms to form a triangle shape.
 6. Wrap with Nori: Wrap a strip of nori around the bottom or the whole onigiri.
 7. Serve: Garnish with sesame seeds if desired. Eat fresh!
+"""
+        },
+      ];
+    } else if (countryName == "Canada") {
+      return [
+        {
+          "name": "Beef Meat Pie",
+          "desc": "Quebec Style Beef Meat Pie with grated potato.",
+          "image": "assets/France/PateVHFR.png",
+          "fullRecipe": """
+Beef Meat Pie Recipe (Quebec Style)
+This version uses 100% beef. Since beef is leaner than the traditional pork-beef blend, a grated potato is added to ensure the filling remains moist.
+
+Ingredients
+Meat: 2 lbs (900g) ground beef (choose "medium" instead of "extra-lean" for better moisture).
+Vegetables: 1 large onion (finely chopped), 2 cloves garlic (minced), and 1 large russet potato (peeled and finely grated).
+Spices: 1 tsp salt, ½ tsp black pepper, ½ tsp ground cinnamon, ¼ tsp ground cloves, and ¼ tsp ground nutmeg or allspice.
+Liquid: ¾ cup beef broth (low sodium).
+Pastry: 2 sheets of all-butter pie crust (top and bottom).
+Glaze: 1 egg yolk beaten with 1 tbsp of water.
+
+Instructions
+1. Cook the Filling: In a large pot over medium heat, cook the ground beef with the onion and garlic. Break the meat into very small crumbles with a wooden spoon as it browns.
+2. Season: Once the beef is cooked, drain about 80% of the rendered fat (leave a little for flavor). Stir in the grated potato, salt, pepper, cinnamon, cloves, and nutmeg.
+3. Simmer: Pour in the beef broth. Reduce heat to low and simmer for about 20–25 minutes. The potato will break down and act as a binder, creating a thick, moist texture.
+4. Cooling (Essential): Remove from heat and let the mixture cool completely. Putting hot meat directly on the dough will make the crust soggy.
+5. Assemble: Preheat your oven to 400°F (200°C). Line a 9-inch pie plate with the bottom crust. Fill with the cooled beef mixture.
+6. Seal: Place the top crust over the meat. Trim and crimp the edges to seal tightly. Cut 3 or 4 slits in the top to let steam escape. Brush the entire top with the egg yolk glaze.
+7. Bake: Bake for 35 to 45 minutes on the middle rack until the crust is golden brown.
+
+Quick Tips
+Texture: If the meat looks too dry after simmering, add 2–3 tablespoons of broth before assembling.
+Side Dish: In Quebec, this is classically served with green tomato ketchup or a side of mashed potatoes.
 """
         },
       ];

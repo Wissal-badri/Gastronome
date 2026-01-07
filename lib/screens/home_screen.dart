@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:gastronome/theme/app_theme.dart';
 import 'package:gastronome/screens/category_screen.dart';
+import 'package:gastronome/screens/search_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -78,9 +79,13 @@ class ClassySearchBar extends StatelessWidget {
         border: Border.all(color: AppTheme.champagneGold.withOpacity(0.3), width: 1),
       ),
       child: TextField(
-        autofocus: false, // Explicitly disable autofocus
-        enableSuggestions: false,
-        autocorrect: false,
+        readOnly: true, // Prevent typing here, just navigate
+        onTap: () {
+           Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const SearchScreen()),
+          );
+        },
         decoration: InputDecoration(
           hintText: "Search for a recipe...",
           hintStyle: TextStyle(
