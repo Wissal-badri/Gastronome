@@ -211,6 +211,81 @@ Step 5: Filling and Finishing
 """
         },
       ];
+    } else if (countryName == "Japan") {
+      return [
+        {
+          "name": "Ichigo Daifuku",
+          "desc": "Fresh strawberry and red bean paste wrapped in soft mochi.",
+          "image": "assets/Japan/DaifukuJP.png",
+          "fullRecipe": """
+Ichigo Daifuku (Strawberry Mochi)
+Ichigo Daifuku is a seasonal Japanese treat consisting of a fresh strawberry and sweet red bean paste (anko) wrapped in soft mochi. This 2026 recipe uses a microwave for a faster, easier process.
+
+Ingredients
+Strawberries: 6–8 small to medium, fresh and firm.
+Filling: 120g–180g Anko (sweet red bean paste).
+Mochi Dough:
+- 100g Shiratamako or Mochiko (glutinous rice flour).
+- 150ml Water.
+- 2 tbsp Sugar (approx. 25g–30g).
+Dusting: Potato starch or cornstarch (to prevent sticking).
+
+Instructions
+1. Prepare the Filling
+- Prep Fruit: Wash, hull, and thoroughly dry the strawberries.
+- Wrap in Anko: Divide the anko into 6–8 equal portions. Flatten each portion into a small disc and wrap it around a strawberry.
+  Tip: You can cover the strawberry completely or leave the tip exposed for easier identification.
+- Chill: Place the anko-covered strawberries in the refrigerator to firm up while you make the mochi.
+
+2. Make the Mochi Dough
+- Mix: In a microwave-safe glass bowl, whisk the rice flour, sugar, and water until smooth and lump-free.
+- Microwave: Cover the bowl loosely with plastic wrap. Microwave at 600W for 1.5 to 2 minutes.
+- Stir: Remove and mix vigorously with a wet silicone spatula. The mixture will be lumpy and partly white.
+- Final Cook: Microwave for another 1 minute. Stir again until the dough is smooth, sticky, and translucent (no longer opaque white).
+
+3. Assembly
+- Dust Surface: Generously coat a tray or work surface with starch.
+- Divide: Scrape the hot mochi onto the starch and dust the top. Divide it into 6–8 equal pieces while still warm.
+- Wrap: Flatten one piece of mochi into a 3-inch disc. Place an anko-covered strawberry in the center (tip down). Gently stretch the mochi over the base and pinch the edges to seal.
+- Shape: Roll between your palms to smooth the shape, then place seam-side down.
+
+Pro-Tips
+Avoid the Fridge: Do not store the finished daifuku in the refrigerator; the cold makes mochi hard and rubbery. Store at room temperature in an airtight container and consume within 24–48 hours.
+Clean Hands: Mochi is extremely sticky. Keep your hands and tools well-dusted with starch or slightly damp with water at all times.
+"""
+        },
+        {
+          "name": "Soufflé Cheesecake",
+          "desc": "Jiggly, airy Japanese cheesecake that melts in your mouth.",
+          "image": "assets/Japan/FluffyCakeJP.png",
+          "fullRecipe": """
+Japanese Soufflé Cheesecake
+This recipe is for the popular Japanese Soufflé Cheesecake, known for its jiggly, airy texture that melts in your mouth.
+
+Ingredients
+- Cream Cheese: 8 oz (225g), softened
+- Eggs: 5 large (separated into yolks and whites)
+- Unsalted Butter: 1/4 cup (60g)
+- Whole Milk: 1/2 cup (120ml)
+- Granulated Sugar: 1/2 cup (100g), divided
+- Cake Flour: 1/2 cup (60g), sifted
+- Cornstarch: 2 tablespoons
+- Lemon Juice: 1 teaspoon (or 1/4 tsp cream of tartar)
+- Vanilla Extract: 1 teaspoon
+
+Instructions
+1. Prep: Preheat your oven to 320°F (160°C). Line an 8-inch round cake pan with parchment paper on the bottom and sides.
+2. Melt Base: In a saucepan over low heat, combine cream cheese, butter, and milk. Whisk until smooth, then remove from heat to cool slightly.
+3. Yolk Mixture: Whisk egg yolks, vanilla, and 2 tablespoons of sugar into the cheese mixture. Sift in the cake flour and cornstarch, and fold gently until smooth.
+4. Whip Meringue: In a separate clean bowl, beat egg whites with lemon juice (or cream of tartar) until foamy. Gradually add the remaining sugar and beat until soft peaks form (the tip should flop over when you lift the whisk).
+5. Combine: Gently fold the egg whites into the yolk mixture in three parts using a spatula. Do not over-mix, or you will lose the air bubbles.
+6. Water Bath: Pour the batter into the pan and tap it on the counter to release large air bubbles. Place the pan inside a larger roasting tray and fill the tray with 1 inch of hot water.
+7. Bake: Bake at 320°F (160°C) for 20 minutes, then reduce the temperature to 285°F (140°C) and bake for another 40–50 minutes until golden on top.
+8. Cool Slowly: Turn off the oven and leave the door slightly ajar for 15 minutes to let the cake cool slowly (this prevents it from collapsing).
+9. Serve: Chill in the refrigerator for at least 4 hours before serving for the best flavor and texture.
+"""
+        },
+      ];
     }
     return [];
   }

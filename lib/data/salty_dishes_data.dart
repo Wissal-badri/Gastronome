@@ -351,7 +351,7 @@ Instructions
         {
           "name": "Beef Meat Pie",
           "desc": "Quebec Style Beef Meat Pie with grated potato.",
-          "image": "assets/France/PateVHFR.png",
+          "image": "assets/Canada/PateViandeHacheeCA.png",
           "fullRecipe": """
 Beef Meat Pie Recipe (Quebec Style)
 This version uses 100% beef. Since beef is leaner than the traditional pork-beef blend, a grated potato is added to ensure the filling remains moist.
@@ -376,6 +376,79 @@ Instructions
 Quick Tips
 Texture: If the meat looks too dry after simmering, add 2–3 tablespoons of broth before assembling.
 Side Dish: In Quebec, this is classically served with green tomato ketchup or a side of mashed potatoes.
+"""
+        },
+      ];
+    } else if (countryName == "Italy") {
+      return [
+        {
+          "name": "Antipasti & Bruschetta",
+          "desc": "Traditional Italian starter platter and tomato bruschetta.",
+          "image": "assets/Italy/AntipastiIT.png",
+          "fullRecipe": """
+Italian Antipasti & Bruschetta
+For a traditional Italian experience, you can prepare an Antipasto Platter or a classic Tomato Bruschetta.
+
+1. Traditional Antipasto Platter
+This platter is designed to offer a variety of textures and flavors.
+Prep time: 15–20 minutes
+
+Ingredients:
+- Cured Meats: Prosciutto di Parma, Genoa salami, and capicola (approx. 4 oz each).
+- Cheeses: Fresh mozzarella pearls, wedges of sharp provolone, and chunks of Parmigiano-Reggiano.
+- Marinated Items: Artichoke hearts, roasted red peppers, and mixed Italian olives (Castelvetrano or Kalamata).
+- Vegetables: Pepperoncini or giardiniera (pickled vegetable mix).
+- Breads: Thin grissini (breadsticks) or sliced ciabatta.
+
+Assembly: Place small bowls for olives and marinated vegetables on a large board. Fold or roll the meats and arrange them around the bowls with the cheese. Fill gaps with nuts like almonds or pistachios.
+
+2. Classic Tomato Bruschetta
+A simple, authentic starter featuring fresh flavors.
+Prep time: 30 minutes
+
+Ingredients:
+- 6–8 ripe Roma tomatoes, diced
+- 2 cloves fresh garlic (one minced, one left whole for rubbing)
+- 1/4 cup fresh basil leaves, torn
+- 1/3 cup extra-virgin olive oil
+- 1 tbsp balsamic vinegar (optional)
+- 1 loaf crusty Italian bread
+
+Instructions:
+1. Marinate: Combine diced tomatoes, minced garlic, basil, olive oil, and balsamic vinegar in a bowl. Season with sea salt and pepper. Let sit for 10–15 minutes at room temperature to develop flavors.
+2. Toast: Slice the bread into 1/2-inch thick pieces and grill or broil until golden and crisp.
+3. Rub: While the bread is still warm, rub the whole garlic clove over one side of each slice to infuse it with flavor.
+4. Top: Spoon the tomato mixture onto the bread and serve immediately.
+"""
+        },
+        {
+          "name": "Lemon Risotto",
+          "desc": "Creamy risotto with lemon zest, juice, and parmesan.",
+          "image": "assets/Italy/LemonRisottoIT.png",
+          "fullRecipe": """
+Basic Lemon Risotto with Poached Egg
+A lemon risotto recipe typically involves arborio or carnaroli rice, chicken or vegetable stock, onion, white wine, parmesan cheese, butter, and fresh lemon juice and zest. Some variations, like the dish in your image, also include a poached egg on top for extra richness.
+
+Ingredients:
+- 4 cups hot chicken or vegetable broth
+- 2 tbsp olive oil
+- 3 tbsp unsalted butter, divided
+- ½ cup finely diced yellow onion or shallot
+- 1 cup Arborio rice
+- ⅓ cup dry white wine
+- 1 lemon (zested and juiced)
+- ¾ cup grated Parmesan cheese, plus extra for serving
+- Salt and black pepper to taste
+- Optional for serving: A poached egg per serving
+
+Instructions:
+1. Warm the stock: Heat the broth in a medium saucepan and keep it at a low simmer.
+2. Sauté aromatics: In a separate large, heavy-bottomed pot, heat the olive oil and 2 tablespoons of butter over medium heat. Add the onion and cook until softened and translucent, about 2-3 minutes.
+3. Toast the rice: Add the rice to the pot and stir constantly for about 3 minutes until lightly toasted.
+4. Deglaze: Pour in the white wine and stir until it has been fully absorbed by the rice.
+5. Cook the risotto: Add the hot broth, ½ cup at a time, stirring frequently until each addition is absorbed before adding the next. Continue this process until the rice is tender but still firm to the bite (al dente), about 15-20 minutes.
+6. Finish and season: Remove the pot from the heat. Stir in the remaining 1 tablespoon of butter, lemon juice, lemon zest, and Parmesan cheese. Season with salt and pepper to taste.
+7. Serve: Cover and let the risotto sit for a minute, then spoon into bowls. For a dish like the one pictured, top each serving with a poached egg and extra Parmesan and lemon zest.
 """
         },
       ];

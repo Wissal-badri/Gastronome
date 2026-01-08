@@ -144,6 +144,67 @@ Instructions
 4. Serve: Garnish and serve hot.
 """
         },
+        {
+          "name": "Hargma",
+          "desc": "Slow-cooked beef trotters stew (Kour3ine).",
+          "image": "assets/Morocco/HergmaMA.png",
+          "fullRecipe": """
+Hargma (Kour3ine)
+Hargma (also known as Kour3ine) is a slow-cooked Moroccan stew traditionally made with cow or lamb feet. It is famous for its rich, sticky texture caused by the high collagen content and its unique sweet-and-savory flavor profile.
+
+Ingredients
+Main: 2 large beef trotters (cleaned and cut into several pieces).
+Legumes/Grains: 1 cup dried chickpeas (soaked overnight) and 1 cup wheat berries (optional, often tied in a cheesecloth bag).
+Sweetness: ½ cup raisins.
+Aromatics: 1 large onion (chopped), 4–6 garlic cloves (minced), and 3 tbsp olive oil.
+Spices:
+- 1 tsp turmeric and 1 tsp ground ginger.
+- 1 tsp paprika and 1 tsp ground cinnamon (or 2 sticks).
+- 1 tsp cumin and a pinch of saffron threads.
+- Salt and black pepper to taste.
+
+Instructions
+Prep the Meat: Thoroughly clean the trotters. It is helpful to blanch them in boiling water for 10 minutes, then drain and rinse again to ensure they are free of residue.
+Sauté: In a large heavy-bottomed pot (or pressure cooker), heat the olive oil. Sauté the onions and garlic until softened.
+Spice & Brown: Add the trotters to the pot along with all the spices. Stir well for 2 minutes to coat the meat and toast the spices until fragrant.
+Initial Slow Cook: Add enough water to fully submerge the trotters (about 6–8 cups).
+- Stovetop: Simmer covered on low for 3 hours.
+- Pressure Cooker: Cook for 1.5 hours.
+Add Chickpeas & Wheat: Add the soaked chickpeas and the wheat berries (if using). If the water level has dropped significantly, add enough to cover the ingredients again.
+Final Simmer: Continue cooking until the chickpeas are tender and the meat is "fall-off-the-bone" soft.
+- Stovetop: Another 1.5–2 hours.
+- Pressure Cooker: 30–45 minutes.
+The Sweet Finish: In the last 15–20 minutes of cooking, add the raisins. Continue simmering uncovered until the sauce has reduced to a thick, syrupy glaze.
+Serve: Arrange the trotters on a large platter, surrounded by the chickpeas and raisins, and topped with the wheat berries. Serve hot with crusty Moroccan bread.
+"""
+        },
+        {
+          "name": "Tanjia Marrakchia",
+          "desc": "Traditional slow-cooked meat confit in clay pot.",
+          "image": "assets/Morocco/TanjiaMA.png",
+          "fullRecipe": """
+Traditional Tanjia Marrakchia
+Traditional Tanjia Marrakchia is a meat-based confit known as "the bachelor's dish" because of its simple preparation: all ingredients are placed in a clay jar and slow-cooked until the meat falls off the bone.
+
+Ingredients
+Meat: 4 lbs (2 kg) of lamb or beef. Ideal cuts are gelatinous, such as shank (hock), neck, or tail.
+Spices: 2 tsp ground cumin, 1 tsp saffron threads (crumbled), 1 tsp turmeric, and 1 tsp ginger.
+Aromatics: 1 small head of garlic (approx. 8 cloves), unpeeled or lightly crushed.
+Preserved Lemon: 1 whole preserved lemon, halved or quartered (remove seeds).
+Fats: 1/4 cup olive oil and 1 tbsp smen (Moroccan fermented butter; sub with ghee or unsalted butter).
+Liquid: 1/2 cup water.
+
+Oven Instructions (Home Method)
+1. Marinate: In a large bowl, rub the meat with the cumin, saffron, turmeric, ginger, and olive oil. Let it sit for at least 1 hour (ideally overnight).
+2. Assemble: Place the meat in a deep, oven-proof dish (like a Dutch oven or heavy clay pot). Add the garlic cloves, preserved lemon, smen, and water.
+3. Seal: Cover the top with parchment paper and then a layer of aluminum foil. Secure tightly to ensure no steam escapes.
+4. Slow Cook: Place in a cold oven and set it to 275°F (140°C). Cook for 5 to 6 hours. The meat is done when it is incredibly tender and "melts" when touched.
+5. Reduce (Optional): If there is too much liquid after cooking, simmer it uncovered on the stovetop for a few minutes until the sauce is thick and syrupy.
+
+Serving
+Serve the Tanjia hot in a large communal dish. It is traditionally eaten with khobz (Moroccan crusty bread) to mop up the rich, gelatinous sauce.
+"""
+        },
       ];
     } else if (countryName == "France") {
       return [
@@ -518,6 +579,54 @@ Transfer pizza to preheated stone/steel using pizza peel. Bake 4-7 minutes until
 
 Step 4: Finalize and serve
 Remove from oven. Drizzle generously with extra virgin olive oil. Slice and serve immediately.
+"""
+        },
+        {
+          "name": "Lasagna alla Bolognese",
+          "desc": "Classic layered pasta with ragù and béchamel sauce.",
+          "image": "assets/Italy/LasagnaBollIT.png",
+          "fullRecipe": """
+Lasagna alla Bolognese
+Lasagna alla Bolognese is a multi-layered Italian classic composed of a slow-cooked meat ragù, creamy béchamel sauce, and delicate pasta sheets.
+
+Ingredients
+Ragù (Meat Sauce):
+- 1 lb (500g) Ground beef (or beef/pork mix)
+- 2 oz (50g) Pancetta, finely chopped
+- 1 Carrot, 1 Celery stalk, 1 Onion (chopped)
+- 1/2 cup Dry white or red wine
+- 1 cup Whole milk (optional, for tenderness)
+- 2-3 cups Tomato purée or crushed tomatoes
+
+Béchamel (White Sauce):
+- 4 tbsp Unsalted butter
+- 4 tbsp All-purpose flour
+- 3-4 cups Whole milk, warmed
+- Pinch of Nutmeg, salt, and pepper
+
+Pasta & Assembly:
+- 1 box (approx. 12-15) Lasagna sheets
+- 1-2 cups Freshly grated Parmigiano-Reggiano
+- Butter for greasing
+
+Preparation Steps
+1. Prepare the Ragù
+- Sauté: Cook pancetta in a heavy-based pot until fat renders. Add finely chopped carrot, celery, and onion (the soffritto); sauté until soft (about 5-10 minutes).
+- Brown Meat: Add ground meat, breaking it up with a spoon, and cook until browned.
+- Deglaze: Pour in the wine and let it evaporate almost completely.
+- Simmer: Stir in tomato purée. Cover and simmer on low for at least 2–3 hours, adding broth or water if it gets too dry. Toward the end, stir in 1 cup of milk to reduce acidity.
+
+2. Prepare the Béchamel
+- Roux: Melt butter in a saucepan over medium heat. Whisk in flour and cook for 1-2 minutes without browning.
+- Whisk: Gradually pour in warm milk while whisking constantly to prevent lumps.
+- Thicken: Cook until the sauce is thick enough to coat the back of a spoon. Season with salt, pepper, and nutmeg.
+
+3. Assembly and Baking
+- Bottom Layer: Spread a thin layer of ragù and béchamel at the bottom of a greased 9x13 inch baking dish.
+- Layers: Place a layer of pasta sheets, followed by a layer of ragù, then béchamel, and a generous sprinkle of Parmigiano-Reggiano. Repeat for 5 to 7 layers.
+- Top: Finish with a final layer of béchamel, a few dollops of ragù, and extra cheese.
+- Bake: Pre-heat oven to 350°F (180°C). Bake for 30–40 minutes until golden and bubbling.
+- Rest: Let the lasagna rest for 10–15 minutes before slicing to allow the layers to set.
 """
         },
       ];

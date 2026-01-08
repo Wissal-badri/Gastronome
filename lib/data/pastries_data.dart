@@ -182,6 +182,47 @@ Method
 Sellou keeps very well for several weeks in an airtight container.
 """
         },
+        {
+          "name": "Feqqas",
+          "desc": "Traditional Moroccan twice-baked biscuit with nuts and seeds.",
+          "image": "assets/Morocco/feqqasMA.png",
+          "fullRecipe": """
+Traditional Moroccan Feqqas (Fekkas)
+Feqqas is a traditional Moroccan twice-baked biscuit, similar to Italian cantuccini or biscotti. It is prized for its crunch and the aromatic blend of toasted nuts and seeds.
+
+Ingredients
+Dry Base: 500g (4 cups) all-purpose flour, 150g (¾ cup) granulated sugar, 1 tsp baking powder, and a pinch of salt.
+Aromatics: 2 tbsp toasted sesame seeds, 1 tbsp anise seeds, and 1 tbsp orange blossom water.
+Nuts: 100g whole almonds (soak in water or orange blossom water for 20 minutes beforehand to prevent them from breaking during slicing).
+Wet Base: 2–3 large eggs and 125ml (½ cup) vegetable oil.
+Glaze: 1 egg yolk mixed with 1 tsp instant coffee or milk for a golden finish.
+
+Instructions
+1. Prepare the Dough
+Whisk the eggs, sugar, oil, and orange blossom water in a large bowl until smooth.
+Stir in the almonds, sesame seeds, and anise seeds.
+Gradually add the flour and baking powder. Mix until a soft, non-sticky dough forms (do not over-knead).
+
+2. First Bake (Setting the Shape)
+Divide the dough into 3 or 4 logs (about 3cm/1.2 inches thick).
+Place logs on a parchment-lined tray and brush the tops with the egg yolk glaze.
+Bake at 180°C (350°F) for 15–20 minutes until firm and lightly golden but not fully cooked.
+
+3. The Resting Period (Crucial Step)
+Remove logs from the oven and cover them immediately with a damp kitchen towel.
+Let them rest for at least 6 hours or overnight. This softens the crust, allowing you to slice them without the biscuit cracking or the almonds shattering.
+
+4. Second Bake (The Crunch)
+Using a very sharp or serrated knife, slice the logs diagonally into 1cm (½ inch) thick pieces.
+Arrange the slices flat on a baking sheet.
+Reduce the oven to 160°C (320°F) and bake for 10–15 minutes, flipping halfway through, until golden brown and crisp on both sides.
+
+Pro Tips
+Easy Slicing: If you are in a hurry, you can use the "damp towel" method for just 1 hour, but overnight rest is the traditional secret for perfect edges.
+Modern Twist: Add 50g of raisins or dried cranberries for a sweeter, chewier variation.
+Storage: Store in an airtight container once completely cool; they will stay crunchy for several weeks.
+"""
+        },
       ];
     } else if (countryName == "France") {
       return [
