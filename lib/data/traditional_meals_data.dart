@@ -709,6 +709,167 @@ Instructions
 """
         },
       ];
+    } else if (countryName == "USA") {
+      return [
+        {
+          "name": "Smash Burger",
+          "desc": "Classic American-style smash burger with crispy crust.",
+          "image": "assets/USA/SmashBurgerUSA.png",
+          "fullRecipe": """
+The Classic American Smash Burger
+Prep time	Cook time	Servings
+15 mins	10 mins	4 Burgers
+Ingredients
+The Beef: 1.5 lbs (approx. 700g) of 80/20 ground chuck. Cold meat is essential for a good sear.
+The Buns: 4 Brioche or potato buns, buttered and toasted.
+The Cheese: 4–8 slices of American cheese (or mild Cheddar).
+Toppings: Shredded iceberg lettuce, sliced tomatoes, red onion rings, and dill pickles.
+Secret Sauce: Mix ½ cup mayonnaise, 2 tbsp ketchup, 1 tbsp yellow mustard, 1 tbsp sweet pickle relish, and a dash of onion powder. 
+Instructions
+Form Meat Balls: Gently divide the beef into 4 loose balls (about 170g each). Do not pack the meat tightly. Keep them refrigerated until the pan is hot.
+Toast Buns: Spread butter on the inside of the buns and toast them in a skillet over medium heat until golden brown.
+The Smash: Heat a cast-iron skillet or griddle over high heat until it begins to smoke. Place a meat ball in the pan and immediately press it down hard with a flat, heavy metal spatula to create a thin, wide patty.
+Season & Sear: Season the top with a generous pinch of salt and black pepper. Cook for about 2 minutes until a dark brown, crispy crust forms on the bottom.
+Flip & Melt: Scrape the patty off the pan with a thin metal spatula to keep the crust intact and flip it. Immediately add the cheese. You can add a teaspoon of water and cover with a lid for 30 seconds to steam-melt the cheese.
+Assemble: Spread a layer of sauce on the bottom bun. Stack your toppings (pickles, onions, lettuce, tomato) then the cheesy patty. Close with the top bun. 
+2026 Burger Tips
+The Blend: For a more gourmet flavor, ask your butcher to grind a 70/30 mix of chuck and brisket.
+No Oil Needed: If your pan is hot enough and you use 80/20 beef, the fat from the meat will provide all the oil you need for searing.
+"""
+        },
+        {
+          "name": "Classic Hot Dog",
+          "desc": "Traditional beef hot dog with classic toppings.",
+          "image": "assets/USA/HotDogUSA.png",
+          "fullRecipe": """
+A classic hot dog recipe involves simple preparation and traditional condiments to create the familiar and beloved flavor. The visual search results also indicate variations like Chicago-style or those using unique toppings. 
+Ingredients
+1 package of all-beef hot dogs
+1 package of hot dog buns (poppy seed buns are a classic option)
+Yellow mustard, to taste
+Sweet relish, to taste
+Diced white onion, to taste
+Optional toppings: ketchup, a dill pickle spear, sport peppers, celery salt 
+Instructions
+Step 1: Cook the hot dogs and prepare the buns
+You can use various methods to cook the hot dogs, such as boiling or grilling.
+To Boil: Fill a medium pot with water and bring to a boil. Add the hot dogs and simmer for 3–6 minutes, or as instructed on the package.
+To Grill: Preheat a grill to medium-high heat. Place the hot dogs on the grill, turning occasionally, until heated through and nicely charred, about 5–8 minutes. 
+Warm the hot dog buns by lightly toasting them on the grill for a minute or in the oven for a few minutes. 
+Step 2: Assemble the hot dogs
+Place one hot dog in each warmed bun.
+Step 3: Add your desired toppings
+Top with your favorite condiments. A classic style includes a zigzag of yellow mustard, a generous dollop of sweet relish, and some diced onions. You can customize with other toppings like ketchup, a dill pickle spear, or sport peppers.
+"""
+        },
+        {
+          "name": "Southern Fried Chicken",
+          "desc": "Crispy buttermilk fried chicken.",
+          "image": "assets/USA/SFChickenUSA.png",
+          "fullRecipe": """
+To make authentic Southern fried chicken in 2026, focus on a buttermilk brine for moisture and a seasoned flour dredge for a crispy crust.
+Ingredients
+Chicken: 3 lbs of bone-in pieces (drumsticks, thighs, breasts).
+Brine: 2 cups buttermilk, 1 tbsp hot sauce (optional), 1 tsp salt, and 1 tsp black pepper.
+Dredge: 2 cups all-purpose flour, 1 tbsp paprika, 1 tsp garlic powder, 1 tsp onion powder, and ½ tsp cayenne pepper.
+Oil: Vegetable, peanut, or canola oil for frying. 
+Instructions
+Marinate: Place chicken in a bowl with the buttermilk mixture. Cover and refrigerate for at least 2 hours, or overnight for the best results.
+Coat: In a separate bowl, whisk together the flour and spices. Remove chicken from the buttermilk, let excess drip off, and roll each piece in the flour mixture, pressing firmly to ensure it adheres.
+Heat Oil: Fill a deep skillet or Dutch oven with about 2 inches of oil. Heat to 350°F (175°C).
+Fry: Carefully add chicken in batches to avoid overcrowding. Fry for 12–15 minutes (turning halfway), until golden brown and the internal temperature reaches 165°F (74°C).
+Drain: Place cooked chicken on a wire rack or paper towels to remove excess oil. Let rest for 5 minutes before serving. 
+Tips for 2026
+Double Dredge: For extra crunch, dip the floured chicken back into the buttermilk and then into the flour again before frying.
+Cornstarch: Replacing 1/2 cup of flour with cornstarch can result in a lighter, crispier texture.
+"""
+        },
+        {
+          "name": "Mac & Cheese",
+          "desc": "Classic Homemade Macaroni and Cheese.",
+          "image": "assets/USA/MacAndCheeseUSA.png",
+          "fullRecipe": """
+Classic Homemade Macaroni and Cheese
+This recipe serves 6–8 people and takes about 45–60 minutes to prepare. 
+Ingredients
+Pasta: 1 lb (approx. 500g) elbow macaroni.
+Cheese: 4–5 cups freshly shredded cheese (sharp cheddar is classic; mixing with Gruyère or mozzarella adds depth).
+Sauce Base (Roux): ¼ cup unsalted butter and ¼ cup all-purpose flour.
+Liquid: 3–4 cups whole milk (warmed slightly to prevent lumps).
+Seasonings: 1 tsp salt, ½ tsp black pepper, ¼ tsp paprika, and a "secret" pinch of nutmeg or dry mustard for depth.
+Optional Topping: 1 cup panko breadcrumbs mixed with 2 tbsp melted butter. 
+Step-by-Step Instructions
+Boil the Pasta: Bring a large pot of salted water to a boil. Cook the macaroni until al dente (usually 1–2 minutes less than the package instructions). Drain and set aside.
+Make the Roux: In a large saucepan or Dutch oven, melt the butter over medium heat. Whisk in the flour and cook for 1–2 minutes until bubbling and slightly golden to remove the raw flour taste.
+Create the Béchamel: Slowly pour in the milk while whisking constantly to ensure no lumps form. Continue to cook and stir for 5–8 minutes until the sauce is thick enough to coat the back of a spoon.
+Add Cheese & Seasonings: Remove the pan from the heat. Gradually stir in about 3/4 of your shredded cheese until completely melted and smooth. Stir in your salt, pepper, and optional seasonings.
+Combine: Fold the cooked macaroni into the cheese sauce until every noodle is evenly coated. 
+Finishing Options
+Stovetop (Quick): Serve immediately while hot and gooey.
+Baked (Classic): Preheat your oven to 375°F (190°C). Transfer the mixture to a greased baking dish. Top with the remaining shredded cheese and the buttered breadcrumbs. Bake for 20–30 minutes until the top is golden and the edges are bubbling.
+"""
+        },
+        {
+          "name": "Meatloaf",
+          "desc": "Classic meatloaf with glaze.",
+          "image": "assets/USA/MeatloafUSA.png",
+          "fullRecipe": """
+Ingredients
+For the Meatloaf:
+Beef: 1.5 to 2 lbs ground beef (80% or 85% lean is best for juiciness).
+Binders: 3/4 cup breadcrumbs (Panko or Italian) and 2 large eggs.
+Aromatics: 1 small onion (finely diced) and 2–3 cloves minced garlic.
+Liquid/Moisture: 1/3 to 1/2 cup whole milk.
+Seasoning: 1 tbsp Worcestershire sauce, 1 tsp salt, 1/2 tsp black pepper, and 1 tsp Italian seasoning (or dried thyme).
+Secret Tip (Optional): Add one small shredded apple (like Fuji) to the mix for extra moisture and flavor. 
+For the Classic Glaze:
+1/2 cup ketchup.
+2 tbsp brown sugar.
+1 tbsp mustard (yellow or Dijon).
+1 tsp white or red wine vinegar. 
+Instructions
+Preheat & Prep: Heat your oven to 350°F (175°C). Line a rimmed baking sheet with foil or grease a 9x5-inch loaf pan.
+Sauté Aromatics: For better flavor, sauté the diced onions in a little butter or oil until translucent (about 5 minutes) before adding them to the meat.
+Mix: In a large bowl, whisk together the milk, eggs, breadcrumbs, and seasonings first to create a paste (panade). Add the ground beef and onions. Mix with your hands until just combined—do not overmix, or the meatloaf will be tough.
+Shape: Form the mixture into an 8x4-inch loaf on your baking sheet or press it gently into the loaf pan.
+Bake: Bake uncovered for 40–45 minutes.
+Glaze: Whisk the glaze ingredients together and spread evenly over the top of the meatloaf.
+Finish: Return to the oven for another 15–20 minutes. The meatloaf is done when a meat thermometer reaches an internal temperature of 160°F (71°C).
+Rest: Let the meatloaf rest for 10–15 minutes before slicing. This prevents the juices from running out and ensures a moist slice. 
+"""
+        },
+        {
+          "name": "BBQ Ribs",
+          "desc": "Sticky Asian-style BBQ Ribs.",
+          "image": "assets/USA/BBQUSA.png",
+          "fullRecipe": """
+Sticky Asian-style BBQ Ribs are a flavorful dish that can be prepared in an oven or on a grill and are often served with an accompanying Asian slaw or noodle salad. 
+Ingredients
+For the Ribs: 
+4 racks baby back ribs
+1 litre carton pineapple juice
+4 tbsp soy sauce
+4 tbsp white miso paste
+4 tbsp clear honey
+For the Asian Slaw (Noodle or Cabbage): 
+Rice noodles or shredded cabbage/mooli/carrots
+Spring onions
+Fresh herbs (coriander, mint)
+2 tbsp sesame oil
+4 tbsp rice vinegar
+Seasoning to taste
+Instructions
+Step 1: Prepare and Cook the Ribs (Initial Braise)
+Preheat your oven to 180°C (160°C fan/gas 4). Place the ribs, flesh-side down, in a large roasting tin. Pour over the pineapple juice, cover tightly with foil, and bake for 3 hours until tender. 
+Step 2: Make the Glaze
+After 3 hours, remove the ribs from the oven. Scoop 200ml of the cooking liquid into a small pan. Add the honey, soy sauce, and miso paste to the pan. Bring the mixture to a simmer and reduce until it forms a glossy, sticky glaze. 
+Step 3: Finish and Glaze the Ribs
+Turn the oven up to 200°C (180°C fan/gas 6), or prepare your BBQ for indirect cooking. Turn the ribs flesh-side up and baste them with half of the prepared glaze. Continue to cook for another 30-40 minutes (less time on a BBQ), basting with the remaining glaze every 10-15 minutes until they are sticky and shiny. 
+Step 4: Prepare the Slaw
+While the ribs are finishing, combine all of your chosen slaw/noodle salad ingredients (shredded vegetables, herbs, rice noodles) in a large bowl. Whisk the sesame oil and rice vinegar together with a splash of the rib glaze juices or additional soy/lime juice to make a dressing. Toss the salad ingredients with the dressing and season as needed. 
+"""
+        },
+      ];
     }
     return [];
   }

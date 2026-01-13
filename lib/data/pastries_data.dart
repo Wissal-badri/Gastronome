@@ -629,6 +629,193 @@ Part 3: Assemble and Bake
 6. Serve: Cool slightly, dust with confectioners' sugar. Serve warm.
 """
         },
+        {
+          "name": "Bomboloni",
+          "desc": "Authentic Italian Bomboloni Recipe",
+          "image": "assets/Italy/BomboloniIT.png",
+          "fullRecipe": """
+Authentic Italian Bomboloni Recipe
+Ingredients
+For the dough:
+500g (approx. 4 cups) All-purpose flour or Bread flour
+250ml (1 cup) Whole milk, lukewarm
+70g (1/3 cup) Granulated sugar
+70g (5 tbsp) Unsalted butter, softened at room temperature
+1 Large egg, room temperature
+7g (2 ¼ tsp) Active dry yeast or Instant yeast
+A pinch of salt
+Zest of 1 lemon or orange (optional)
+For frying and coating:
+Vegetable oil (for deep frying)
+Extra granulated sugar (for coating)
+For the filling:
+Pastry cream (crema pasticcera), Nutella, or jam.
+Instructions
+Activate the Yeast: In a small bowl, mix the lukewarm milk with a teaspoon of sugar and the yeast. Let it sit for 5-10 minutes until it becomes frothy.
+Mix the Dough: In a large bowl (or stand mixer), combine the flour, the remaining sugar, and the salt. Add the yeast mixture, the egg, and the citrus zest. Knead until a dough starts to form.
+Incorporate Butter: Gradually add the softened butter, piece by piece, while kneading. Continue kneading for about 10 minutes until the dough is smooth, elastic, and no longer sticky.
+First Rise: Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm place for about 2 hours, or until doubled in size.
+Shape the Bomboloni: On a floured surface, roll out the dough to a thickness of about 1.5 cm (1/2 inch). Use a round pastry cutter (approx. 8cm) to cut out circles. Place them on a baking sheet lined with parchment paper.
+Second Rise: Cover the circles and let them rise again for 45 to 60 minutes. They should be very puffy.
+Fry: Heat the oil to 170°C (340°F). Fry the dough circles for about 2 minutes per side until golden brown. Do not overcrowd the pot.
+Coat: Remove the beignets and drain them briefly on paper towels. While still hot, roll them in granulated sugar.
+Fill: Once cooled, use a piping bag with a small nozzle to poke a hole in the side or top and inject your chosen filling.
+Tips:
+For a professional result, you can follow the Great Italian Chefs guide for advanced pastry techniques.
+Make sure the oil is not too hot, otherwise the outside will burn while the inside remains raw.
+"""
+        },
+        {
+          "name": "Maritozzo",
+          "desc": "Soft, honey-scented brioche buns filled with whipped cream.",
+          "image": "assets/Italy/MaritozzoIT.png",
+          "fullRecipe": """
+This authentic Roman recipe creates soft, honey-scented brioche buns filled with a cloud of whipped cream. 
+Ingredients (Makes 10–12 buns)
+For the Dough:
+Flour: 500g (3 1/3 cups) bread flour or Italian "00" flour.
+Sugar: 55g (1/4 cup) caster sugar.
+Yeast: 7g (1 sachet) dried yeast.
+Milk: 250ml (1 cup) lukewarm milk.
+Fat: 60ml (1/4 cup) extra virgin olive oil (traditional) or softened butter.
+Flavorings: 2 tbsp honey, zest of 1 orange, and 1 tsp vanilla extract.
+Salt: 1/2 tsp.
+Egg: 1 large egg (yolk for dough, white for glazing). 
+For the Filling:
+Cream: 600ml heavy whipping cream, well-chilled.
+Sweetener: 80g (1/2 cup) icing sugar and 2 tsp vanilla extract. 
+Step-by-Step Instructions
+1. Prepare the Yeast (Sponge)
+Gently heat the milk until lukewarm. In a small bowl, combine 100g of flour, 1.5 tbsp of sugar, and the yeast. Stir in the warm milk and let it sit for 20 minutes until frothy. 
+2. Mix the Dough
+In a stand mixer with a dough hook, combine the remaining flour, sugar, salt, and orange zest. Add the frothy yeast mixture, oil (or butter), honey, and egg yolk. Knead for 10 minutes until smooth and elastic. 
+3. First Rise
+Let the dough rise in a warm spot until doubled in size. 
+4. Shape and Second Rise
+Divide the dough into 10–12 oval portions, place on lined trays, and let rise again. 
+5. Bake
+Bake the brushed buns at 180°C (350°F) for 15–20 minutes until golden, then cool. 
+6. Fill and Garnish
+Whip cold heavy cream with icing sugar and vanilla until stiff. Slice each bun vertically, fill with cream, and dust with icing sugar.
+"""
+        },
+        {
+          "name": "Zeppole",
+          "desc": "Traditional Zeppole di San Giuseppe.",
+          "image": "assets/Italy/ZeppoleIT.png",
+          "fullRecipe": """
+Traditional zeppole fall into two categories: the simple "doughnut hole" style often found at festivals, and the more elaborate Zeppole di San Giuseppe, which are shaped like nests and filled with cream. 
+Below is the authentic recipe for Zeppole di San Giuseppe, including the traditional pastry cream and black cherry garnish. 
+Ingredients
+For the Pastry Cream (Filling)
+Milk: 2 ½ cups whole milk
+Egg Yolks: 4 large
+Sugar: 4 tbsp granulated
+Thickener: 4 tbsp all-purpose flour and 2 tbsp cornstarch
+Flavoring: Zest of ½ lemon and 1 vanilla bean (or 1 tsp extract) 
+For the Choux Pastry (Dough)
+Liquid: 1 cup water
+Butter: ½ cup (1 stick) unsalted
+Flour: 1 cup all-purpose
+Eggs: 3–4 large eggs, at room temperature
+Salt & Sugar: ⅛ tsp salt and 1 tbsp sugar 
+Garnish
+Amarena cherries in syrup (authentic) or Maraschino cherries
+Powdered sugar for dusting 
+Instructions
+1. Make the Pastry Cream
+Infuse: Heat milk with lemon zest and vanilla seeds in a saucepan until just simmering (do not boil).
+Whisk: In a separate bowl, whisk egg yolks and sugar until pale. Add flour and cornstarch.
+Temper: Slowly drizzle some hot milk into the egg mixture while whisking constantly. Pour everything back into the saucepan.
+Thicken: Cook over medium-low heat, whisking continuously until the mixture becomes a thick custard (about 5–7 minutes).
+Cool: Transfer to a bowl. Cover with plastic wrap pressing directly onto the surface to prevent a skin. Chill in the fridge until completely cold. 
+2. Prepare the Dough (Choux Pastry)
+Boil: In a medium saucepan, combine water, butter, sugar, and salt. Bring to a rolling boil.
+Stir: Remove from heat and add flour all at once. Stir vigorously with a wooden spoon until it forms a smooth ball.
+Dry: Return to low heat for 1–2 minutes, stirring constantly until a thin film forms on the bottom of the pan.
+Add Eggs: Transfer the dough to a bowl. Let it cool for a few minutes, then beat in eggs one at a time. Do not add the next egg until the previous one is fully incorporated. The dough should be smooth and glossy. 
+3. Cooking (Choose Fried or Baked)
+Fried (Traditional): Heat vegetable oil to 350°F (175°C). Pipe 3-inch "nest" circles onto small squares of parchment paper. Drop the paper-side-up into the oil; the paper will peel off as they cook. Fry until golden brown (about 2–3 minutes per side).
+Baked (Lighter): Preheat oven to 375°F (190°C). Pipe nests onto a parchment-lined baking sheet. Bake for 25–30 minutes until deeply golden. Do not open the oven door during baking to prevent collapsing. 
+4. Assembly
+Once cooled, dust with powdered sugar.
+Using a star tip, pipe a generous swirl of pastry cream into the center of each nest.
+Top each one with an Amarena cherry and a small drizzle of its syrup.
+"""
+        },
+        {
+          "name": "Panettone",
+          "desc": "Authentic Italian Panettone Recipe",
+          "image": "assets/Italy/PanettoneIT.png",
+          "fullRecipe": """
+Ingredients
+The Sponge (Starter)
+1/2 cup (60g) bread flour
+1/4 cup (60ml) warm milk or water
+1 tbsp (7g) instant dry yeast
+1 tsp sugar 
+The Main Dough
+Dry: 3 ½ to 4 cups bread flour, 2/3 cup sugar, 1 tsp salt
+Wet: 3 large eggs + 2-3 egg yolks, 1/2 cup warm milk, 1 tsp vanilla extract
+Fats: 12–15 tbsp (approx. 170–200g) unsalted butter, softened
+Flavorings: Zest of 1 orange and 1 lemon, 2 tbsp rum or honey
+Fruits: 1 cup raisins (soaked in rum or water) and 1/2 cup candied orange/citron peel 
+Step-by-Step Instructions
+1. Prepare the Sponge
+Mix the starter ingredients in a small bowl until bubbly (approx. 20–30 minutes). 
+2. Mix the Primary Dough
+In a stand mixer with a dough hook, combine the sponge with the flour, sugar, eggs, milk, and salt. Knead on low speed for 8–10 minutes until smooth and elastic. 
+3. Incorporate Butter and Proof
+Slowly add softened butter one tablespoon at a time, ensuring each piece is fully absorbed before adding more. The dough should be silky and pass the "windowpane test" (stretching without tearing). Cover and let rise in a warm spot until doubled (2–3 hours) or refrigerate overnight for better flavor. 
+4. Add Fruit and Shape
+Gently fold in the soaked raisins and candied peels. Shape the dough into a ball and place it into a panettone paper mold (or a deep, greased tin). 
+5. Final Proof and Scoring
+Let the dough rise again in the mold until it nearly reaches the rim (another 2–3 hours). Use a sharp blade to score a shallow "X" on top and place a small knob of butter in the center. 
+6. Bake and Cool
+Bake: At 350°F (175°C) for 45–55 minutes. If the top browns too quickly, cover loosely with foil.
+Cooling (Crucial): To prevent the tall dome from collapsing, pierce the bottom of the warm loaf with long skewers and hang it upside down between two pots or stacks of books for at least 4–6 hours. 
+Pro Tip: For the best results in 2026, ensure your ingredients (except the starter) are slightly chilled to keep the dough temperature below 26°C (79°F) during heavy kneading. 
+"""
+        },
+        {
+          "name": "Crostata",
+          "desc": "Authentic recipe for Crostata di Marmellata (Jam Tart).",
+          "image": "assets/Italy/CrostataIT.png",
+          "fullRecipe": """
+This authentic recipe for Crostata di Marmellata (Jam Tart) uses a traditional pasta frolla (sweet shortcrust pastry) and can be made in just over an hour. 
+Ingredients
+For the Pasta Frolla:
+Flour: 2 ½ cups (300g) all-purpose or Italian "00" flour.
+Butter: 1 cup (225g) unsalted butter, cold and cubed.
+Sugar: ½ cup (100g) granulated sugar.
+Eggs: 1 whole large egg + 2 large egg yolks.
+Flavorings: Zest of 1 organic lemon and 1 tsp vanilla extract.
+Leavening: 1 tsp baking powder (optional, for a softer crust) and a pinch of salt. 
+For the Filling:
+Jam: 1 ½ cups (approx. 400g) of high-quality jam (apricot, cherry, or raspberry are traditional). 
+Instructions (2026 Edition)
+Prepare the Dough:
+In a large bowl or food processor, combine the flour, sugar, baking powder, and salt.
+Add the cold, cubed butter. Pulse or use your fingertips to rub it into the flour until the mixture resembles coarse sand.
+Add the whole egg, yolks, lemon zest, and vanilla. Mix briefly just until the dough starts to clump together. Do not overwork the dough, or it will become tough.
+Chill:
+Gather the dough into a ball, wrap it in plastic wrap, and flatten it into a disk.
+Refrigerate for at least 30 to 60 minutes.
+Assemble the Tart:
+Preheat your oven to 350°F (180°C). Grease and flour a 9 or 10-inch tart pan (preferably with a removable bottom).
+Roll out about 2/3 of the dough on a lightly floured surface to roughly 1/8-inch (3mm) thickness. Transfer to the pan, pressing it into the edges.
+Prick the bottom with a fork to prevent air bubbles.
+Spread the jam evenly over the base.
+Create the Lattice:
+Roll out the remaining 1/3 of the dough and cut it into 1-inch wide strips.
+Arrange the strips in a crisscross or diamond pattern over the jam.
+Fold any overhanging dough from the base inward to create a rustic border.
+Bake:
+Bake for 30 to 40 minutes until the crust is golden brown and the jam is bubbling.
+Cool completely in the pan before slicing; this allows the jam to set so it doesn't run when cut.
+"""
+        },
+
       ];
     }
     return [];

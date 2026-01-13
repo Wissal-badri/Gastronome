@@ -286,6 +286,40 @@ Instructions
 """
         },
       ];
+    } else if (countryName == "Italy") {
+      return [
+        {
+          "name": "Panna Cotta",
+          "desc": "Elegant Italian dessert with cream, milk, sugar, gelatin, and vanilla.",
+          "image": "assets/Italy/PannaCottaIT.png",
+          "fullRecipe": """
+Panna cotta is an elegant Italian dessert that is surprisingly easy to make with just a few main ingredients: cream, milk, sugar, gelatin, and vanilla. It is typically topped with a fruit coulis or fresh berries, as seen in the image. 
+Ingredients (for 4-6 servings)
+For the Panna Cotta: 
+2 cups (475 ml) heavy cream
+1 cup (240 ml) whole milk
+½ cup (100g) granulated sugar
+1 tbsp (about 2-3 sheets or 1 packet) unflavored gelatin
+1 tbsp vanilla extract or 1 vanilla bean, split
+For the Raspberry Coulis: 
+2 cups (250g) fresh or frozen raspberries
+¼ cup (50g) sugar (adjust to taste)
+2 tsp lemon juice
+Optional: Fresh mint leaves for garnish
+Instructions
+Step 1: Bloom the gelatin
+In a small bowl or saucepan, combine the gelatin powder (or sheets) and a few tablespoons of cold water or milk, stirring until dissolved. Let it sit for 5-10 minutes to soften (hydrate/bloom). 
+Step 2: Heat the cream mixture
+In a medium saucepan, combine the heavy cream, milk, and sugar. If using a vanilla bean, scrape the seeds into the pan and add the pod. Heat the mixture over medium heat, stirring occasionally, until it is hot and steaming, but do not let it boil. The sugar should be completely dissolved. 
+Step 3: Combine and chill
+Remove the pan from the heat. Squeeze any excess water from the gelatin sheets, then whisk the bloomed gelatin into the warm cream mixture until it is completely dissolved. Pour the mixture into individual serving glasses or ramekins. Let them cool to room temperature, then cover with plastic wrap and refrigerate for at least 4-6 hours, or overnight, until set. 
+Step 4: Prepare the raspberry coulis
+In a separate small saucepan, combine the raspberries, sugar, and lemon juice. Heat over medium heat, stirring and mashing the berries occasionally, until the mixture boils. Reduce the heat and simmer until it thickens slightly (about 5-10 minutes). 
+Step 5: Finish and serve
+Remove the coulis from the heat and allow it to cool completely. For a smoother sauce, you can strain it through a fine-mesh sieve to remove the seeds. Once the panna cottas are set, pour the raspberry sauce over the top of each serving and garnish with fresh mint leaves or extra raspberries.
+"""
+        },
+      ];
     }
     return [];
   }
