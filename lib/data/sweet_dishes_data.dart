@@ -320,6 +320,209 @@ Remove the coulis from the heat and allow it to cool completely. For a smoother 
 """
         },
       ];
+    } else if (countryName == "Portugal") {
+      return [
+        {
+          "name": "Pastel de Belém",
+          "desc": "The legendary custard tart from Belém with a secret ancient recipe.",
+          "image": "assets/Portugal/PasteldeBelémPR.png",
+          "fullRecipe": """
+Here is the classic recipe for Pastéis de Nata (the generic name for the Pastel de Belém), which yields about 12 tarts. 
+
+Ingredients
+For the Pastry:
+- Puff Pastry: 1 sheet (approx. 300g), ideally all-butter.
+- Butter: Softened (if making the spiral effect from scratch). 
+
+For the Custard (Filling):
+- Milk: 1 ½ cups (350ml) whole milk.
+- Sugar: 1 ⅓ cups (250g) granulated sugar.
+- Water: ⅓ cup (80ml) for the sugar syrup.
+- Flour: ⅓ cup (40g) all-purpose flour.
+- Egg Yolks: 6 large egg yolks.
+- Aromatics: 1 cinnamon stick and 2-3 large strips of lemon peel (yellow part only).
+- Vanilla: 1 tsp vanilla extract (optional). 
+
+Instructions
+1. Prepare the Pastry Shells
+Unroll your puff pastry sheet. Roll it up tightly into a log (sausage shape).
+Cut the log into 12 even slices (about 2cm thick).
+Place each slice "cut-side down" into a greased muffin or tart tin.
+The Secret Technique: Dip your thumbs in cold water and press the center of the pastry disc into the bottom of the tin, then push the dough up the sides until it reaches the top rim. The bottom should be thinner than the sides. Chill the tin while you make the filling. 
+
+2. Make the Sugar Syrup
+In a small saucepan, combine sugar, water, cinnamon stick, and lemon peel.
+Bring to a boil. Once it reaches 220°F (100°C) or becomes a thin syrup, remove from heat immediately. Do not stir while boiling to avoid crystallization. 
+
+3. Prepare the Custard Base
+In another saucepan, whisk the flour with about ¼ cup of the cold milk until smooth.
+Gradually whisk in the remaining milk. Cook over medium heat, whisking constantly until the mixture thickens (like a thin béchamel).
+Remove from heat and gradually whisk in the hot sugar syrup (remove the cinnamon and lemon first).
+Let the mixture cool for 5-10 minutes, then whisk in the egg yolks one at a time until the custard is smooth and yellow. 
+
+4. Assembly & Baking
+Preheat your oven to the highest possible setting—ideally 500°F to 550°F (250°C to 290°C).
+Fill each pastry shell ¾ full with the custard.
+Bake for 10 to 12 minutes until the pastry is golden-brown and the custard has those signature burnt/caramelized brown spots on top. 
+
+Serving
+Remove from the oven and let cool slightly for 5 minutes. Serve warm with a generous dusting of cinnamon and powdered sugar. 
+"""
+        },
+        {
+          "name": "Pastel de Nata",
+          "desc": "Classic Portuguese custard tart with a crispy base and blistered top.",
+          "image": "assets/Portugal/PasteldenataPR.png",
+          "fullRecipe": """
+Here is the classic recipe for Pastéis de Nata, optimized for home baking to achieve the authentic crispy base and blistered top. 
+
+Ingredients
+Pastry: 1 roll of high-quality all-butter puff pastry (approx. 300g).
+Custard Base:
+- 1 ½ cups (350ml) whole milk.
+- ⅓ cup (40g) all-purpose flour.
+- 6 egg yolks.
+
+Sugar Syrup:
+- 1 ⅓ cups (250g) granulated sugar.
+- ⅔ cup (160ml) water.
+- 1 cinnamon stick and a few strips of lemon peel.
+- 1 tsp vanilla extract (optional). 
+
+Instructions
+1. Shape the Pastry Shells
+Roll your puff pastry into a very tight log.
+Cut the log into 12 even slices (about 1.5–2 cm thick).
+Place each slice "cut-side up" into a greased muffin tin.
+Pro Tip: Dip your thumbs in cold water and press the center of the dough into the bottom of the tin, then push it up the sides to form a thin cup. Chill the tray while preparing the filling. 
+
+2. Make the Infused Syrup
+In a saucepan, combine sugar, water, cinnamon, and lemon peel.
+Boil without stirring until it reaches 220°F (104°C), creating a thin, clear syrup. Remove the cinnamon and lemon. 
+
+3. Prepare the Custard
+Whisk the flour with ¼ cup of cold milk until smooth.
+Scald the remaining milk in a pan, then slowly whisk it into the flour mixture.
+Gradually pour the hot sugar syrup into the milk mixture while whisking constantly.
+Once slightly cooled (lukewarm), whisk in the egg yolks and vanilla until silky. Strain the mixture through a sieve to remove lumps. 
+
+4. The "Blazing" Bake
+Preheat your oven to its maximum temperature—ideally 500°F–550°F (260°C–290°C).
+Fill each pastry shell ¾ full with the custard.
+Bake for 8–12 minutes. They are done when the pastry is golden-brown and the custard has those signature dark caramelization spots. 
+
+Service
+Serve warm, dusted with cinnamon and powdered sugar. To get the best results, use a standard metal muffin tin rather than silicone to ensure a crispy, "shatteringly" thin crust. 
+"""
+        },
+        {
+          "name": "Arroz Doce",
+          "desc": "Traditional sweet rice pudding with lemon and cinnamon.",
+          "image": "assets/Portugal/ArrozDocePT.png",
+          "fullRecipe": """
+Arroz Doce (Portuguese Rice Pudding)
+Creamy, comforting rice pudding decorated with cinnamon patterns.
+
+Ingredients
+- 1 cup short-grain rice (washed)
+- 2 cups water
+- 1 liter whole milk (hot)
+- 1 lemon peel
+- 1 cinnamon stick
+- 1 cup sugar
+- 4 egg yolks
+- Pinch of salt
+- Butter (1 tbsp)
+- Ground cinnamon for decoration
+
+Instructions
+1. Cook Rice: Boil water with salt, butter, and lemon peel. Add rice, simmer until water is absorbed.
+2. Add Milk: Add hot milk and cinnamon stick. Simmer on low heat for 30 mins until creamy.
+3. Sweeten: Stir in sugar. Cook 5 more mins.
+4. Temper Yolks: Beat yolks. Add a ladle of hot rice mix to yolks while whisking (to prevent scrambling). Pour back into pot. Cook 1 min.
+5. Serve: Pour into platter or bowls. Let cool. Decorate with ground cinnamon in lattice pattern.
+"""
+        },
+        {
+          "name": "Bola de Berlim",
+          "desc": "Fluffy fried doughnut filled with rich egg cream.",
+          "image": "assets/Portugal/BolaDeBerlimPT.png",
+          "fullRecipe": """
+Bola de Berlim (Portuguese Doughnut)
+A beachside favorite! Fried dough rolled in sugar and stuffed with yellow custard.
+
+Ingredients
+Dough:
+- 500g flour
+- 25g fresh yeast
+- 100ml warm milk
+- 80g sugar
+- 2 eggs
+- 60g butter
+- Pinch of salt
+- Oil for frying
+
+Filling (Creme de Pasteleiro):
+- 250ml milk
+- 75g sugar
+- 3 egg yolks
+- 20g cornstarch
+- 1 lemon peel
+
+Instructions
+1. Dough: Dissolve yeast in warm milk. Mix all dough ingredients. Knead until elastic. Let rise 1 hour.
+2. Shape: Divide dough into balls (approx 80g). Place on floured tray. Let rise another 45 mins.
+3. Filling: Whisk sugar, yolks, cornstarch. Boil milk with lemon. Pour hot milk into egg mix whisking. Return to heat until thick. Cool.
+4. Fry: Fry balls in oil (not too hot, ~170°C) until golden and cooked through. Drain.
+5. Finish: Roll warm doughnuts in sugar. Slice almost through, pipe in custard filling.
+"""
+        },
+      ];
+    } else if (countryName == "Turkey") {
+      return [
+        {
+          "name": "Antakya Künefesi",
+          "desc": "Crispy cheese-filled dessert soaked in sweet syrup.",
+          "image": "assets/Turkey/AntakyakünefesiTUR.png",
+          "fullRecipe": """
+Antakya Künefesi Recipe
+Ingredients
+Pastry: 500g fresh Kadayıf (shredded phyllo dough).
+Cheese: 300g Antakya Künefe cheese (unsalted, melting cheese). Substitute: Unsalted Mozzarella or Dil Peyniri.
+Fat: 200g Unsalted butter (melted) + 1 tbsp Grape molasses (pekmez) for the pan coating.
+Syrup (Sherbet): 2 cups sugar, 2 cups water, and a few drops of lemon juice.
+Garnish: Ground Pistachios and optionally Kaymak (clotted cream). 
+
+Instructions
+1. Prepare the Syrup (Make first to allow cooling)
+In a pot, combine sugar and water. Bring to a boil, then simmer for about 15 minutes until it slightly thickens. Stir in the lemon juice, remove from heat, and let it cool completely to room temperature. 
+
+2. Prepare the Kadayıf
+Place the fresh kadayıf in a large bowl. Shred the strands into small pieces (about 1cm). Pour the melted butter over them and massage with your hands until every strand is evenly coated. 
+
+3. Prepare the Pan
+Mix a tablespoon of softened butter with the grape molasses. Generously grease the bottom of your künefe pan or a non-stick skillet with this mixture (the molasses gives it that deep golden color). 
+
+4. Assembly
+Press half of the buttered kadayıf into the pan. Use the bottom of a glass to press it down very firmly until it's compact.
+Spread the crumbled or sliced cheese evenly over the dough, leaving a small margin around the edges to prevent leaking.
+Cover with the remaining kadayıf and press down again firmly to seal. 
+
+5. The Stovetop Cooking (Crucial Step)
+Place the pan over medium-low heat on the smallest burner. Rotate the pan constantly to ensure even browning. Cook for about 5–10 minutes until the bottom is deep golden and crispy. 
+
+6. The Flip
+Place a flat plate or another greased pan over the top and carefully flip the künefe. Slide it back into the pan and cook the second side for another 5 minutes until equally crispy. 
+
+7. Final Touch
+While the künefe is sizzling hot, immediately pour the cold syrup all over it. It will hiss as it absorbs the sweetness. Garnish with a mountain of ground pistachios. 
+
+Pro Tip
+Pour obtenir le fameux fromage "filant", servez immédiatement ! Le contraste entre le sirop froid et la pâte brûlante est le secret pour garder le kadayıf bien croquant.
+"""
+        },
+      ];
+
     }
     return [];
   }

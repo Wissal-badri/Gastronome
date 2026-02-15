@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:gastronome/theme/app_theme.dart';
 import 'package:gastronome/screens/country_screen.dart';
+import 'package:gastronome/data/pastries_data.dart';
+import 'package:gastronome/data/traditional_meals_data.dart';
+import 'package:gastronome/data/salty_dishes_data.dart';
+import 'package:gastronome/data/sweet_dishes_data.dart';
 
 class CategoryScreen extends StatelessWidget {
   final String categoryName;
@@ -16,7 +20,7 @@ class CategoryScreen extends StatelessWidget {
   // Updated List with Morocco first
   final List<String> countries = const [
     "Morocco", "France", "Italy", "Japan", "USA", "Spain",
-    "Turkey", "India", "Lebanon", "Mexico", "China", "Canada"
+    "Turkey", "India", "Lebanon", "Mexico", "China", "Canada", "Portugal"
   ];
 
   // Helper to get flag emoji
@@ -34,8 +38,22 @@ class CategoryScreen extends StatelessWidget {
       "Mexico": "🇲🇽",
       "China": "🇨🇳",
       "Canada": "🇨🇦",
+      "Portugal": "🇵🇹",
     };
     return flags[country] ?? "🏳️";
+  }
+
+  int _getRecipeCount(String country, String category) {
+    if (category == "Pastries") {
+      return PastriesData.getDishes(country).length;
+    } else if (category == "Traditional Meals") {
+      return TraditionalMealsData.getDishes(country).length;
+    } else if (category == "Salty Dishes") {
+      return SaltyDishesData.getDishes(country).length;
+    } else if (category == "Sweet Dishes") {
+      return SweetDishesData.getDishes(country).length;
+    }
+    return 0;
   }
 
   @override
@@ -62,12 +80,13 @@ class CategoryScreen extends StatelessWidget {
         itemCount: countries.length,
         itemBuilder: (context, index) {
           final country = countries[index];
-          // E.g., "French Pastries" logic could be refined but sticking to "Country Category"
           final displayTitle = "$country $categoryName"; 
+          final count = _getRecipeCount(country, categoryName);
           
           return CountryCard(
             title: displayTitle,
             countryName: country,
+            recipeCount: count,
             flagEmoji: getCountryFlag(country),
             onTap: () {
               Navigator.push(
@@ -90,6 +109,7 @@ class CategoryScreen extends StatelessWidget {
 class CountryCard extends StatelessWidget {
   final String title;
   final String countryName;
+  final int recipeCount;
   final String flagEmoji;
   final VoidCallback onTap;
 
@@ -97,6 +117,7 @@ class CountryCard extends StatelessWidget {
     super.key,
     required this.title,
     required this.countryName,
+    required this.recipeCount,
     required this.flagEmoji,
     required this.onTap,
   });
@@ -138,7 +159,19 @@ class CountryCard extends StatelessWidget {
                 ),
               ),
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 8),
+
+             // Recipe Count
+            Text(
+              "$recipeCount Recipes",
+              style: GoogleFonts.lato(
+                fontSize: 12,
+                color: AppTheme.richEspresso.withOpacity(0.6),
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+
+            const SizedBox(height: 8),
             
             // Text: "Morocco Pastries"
             Padding(
