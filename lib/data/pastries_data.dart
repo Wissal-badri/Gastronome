@@ -818,6 +818,16 @@ Cool completely in the pan before slicing; this allows the jam to set so it does
 
       ];
     }
+      ];
+    } else if (countryName == "USA" || countryName == "Spain" || countryName == "Turkey" || countryName == "India" || countryName == "Lebanon" || countryName == "Mexico" || countryName == "China" || countryName == "Portugal" || countryName == "England") {
+      return [
+        {
+          "name": "Coming Soon",
+          "desc": "We are working on adding delicious pastry recipes for $countryName!",
+          "fullRecipe": "Please check back later for authentic recipes."
+        }
+      ];
+    }
     return [];
   }
 }

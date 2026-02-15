@@ -522,7 +522,62 @@ Pour obtenir le fameux fromage "filant", servez immédiatement ! Le contraste en
 """
         },
       ];
+    } else if (countryName == "England") {
+      return [
+        {
+          "name": "Clotted Cream Ice Cream",
+          "desc": "Rich and creamy traditional English ice cream.",
+          "image": "assets/England/ClottedcreamEN.png",
+          "fullRecipe": """
+Traditional Clotted Cream Ice Cream
+This recipe uses a "custard base" (crème anglaise) to match the richness of the cream. 
 
+Ingredients
+- Clotted Cream: 227g (one standard jar, like Rodda's Classic Clotted Cream).
+- Whole Milk: 300ml.
+- Double Cream (Heavy Cream): 100ml.
+- Egg Yolks: 4 large (fresh and golden).
+- Golden Caster Sugar: 100g.
+- Vanilla: 1 vanilla pod (seeds scraped) or 1 tsp high-quality vanilla bean paste. 
+
+Instructions
+1. Infuse the Milk
+In a saucepan, combine the milk, double cream, and the vanilla seeds/pod. Bring to a gentle simmer over medium heat (do not let it boil). Once simmering, remove from heat. 
+
+2. Whisk the Yolks
+In a separate large bowl, whisk the egg yolks and sugar together until the mixture is pale, thick, and leaves a "ribbon" trail when you lift the whisk. 
+
+3. Temper the Eggs
+Slowly pour the hot milk mixture into the egg yolks in a thin stream, whisking constantly to prevent the eggs from scrambling. 
+
+4. Thicken the Custard
+Pour the mixture back into a clean saucepan. Cook over low heat, stirring continuously with a wooden spoon or spatula. The custard is ready when it is thick enough to coat the back of the spoon (about 75-80°C). Do not boil. 
+
+5. Add the "Magic" Ingredient
+Remove from heat and discard the vanilla pod. While the custard is still warm, whisk in the Clotted Cream until completely melted and incorporated. This creates an incredibly smooth texture. 
+
+6. Chill and Churn
+- Cooling: Place the bowl in an ice bath to cool quickly, then refrigerate for at least 4 hours (ideally overnight).
+- Churning: Pour the chilled mixture into your ice cream maker and churn according to the manufacturer's instructions (usually 20-30 minutes).
+- Freezing: Transfer to a container and freeze for 2-3 hours for a "firm" scoop. 
+
+Pro Tips for the Best Result
+- No Ice Cream Maker? Pour the mixture into a shallow container. Freeze for 1 hour, take it out and whisk vigorously to break up ice crystals. Repeat this every hour for 4 hours.
+- Serving: Serve with fresh strawberries or a warm fruit crumble. The fat content is very high, so it is best enjoyed in small, decadent portions. 
+"""
+        },
+      ];
+
+    }
+      ];
+    } else if (countryName == "Morocco" || countryName == "Spain" || countryName == "India" || countryName == "Lebanon" || countryName == "Mexico" || countryName == "China" || countryName == "Canada") {
+      return [
+        {
+          "name": "Coming Soon",
+          "desc": "We are working on adding delicious sweet dishes for $countryName!",
+          "fullRecipe": "Please check back later for authentic recipes."
+        }
+      ];
     }
     return [];
   }
