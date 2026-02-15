@@ -319,6 +319,52 @@ Step 5: Finish and serve
 Remove the coulis from the heat and allow it to cool completely. For a smoother sauce, you can strain it through a fine-mesh sieve to remove the seeds. Once the panna cottas are set, pour the raspberry sauce over the top of each serving and garnish with fresh mint leaves or extra raspberries.
 """
         },
+        {
+          "name": "Strudel",
+          "desc": "Traditional Trentino Apple Strudel.",
+          "image": "assets/Italy/StrudelIT.png",
+          "fullRecipe": """
+Traditional Trentino Apple Strudel 
+Ingredients
+For the "Pasta Matta" (Dough):
+Flour: 250g Type 00 or All-purpose flour.
+Egg: 1 medium egg.
+Warm Water: 100ml.
+Oil: 2 tbsp vegetable oil (or melted butter).
+Salt: A pinch. 
+For the Filling:
+Apples: 1kg (ideally Renetta or Golden Delicious), peeled, cored, and thinly sliced.
+Breadcrumbs: 80g, toasted in 50g of butter until golden.
+Sugar: 80g.
+Raisins: 50g (soaked in Rum or warm water).
+Pine Nuts: 30g (toasted).
+Cinnamon: 1 tsp.
+Lemon: Zest of 1 organic lemon. 
+
+Instructions
+1. Prepare the Dough
+Mix the flour, egg, oil, salt, and water. Knead vigorously until the dough is smooth and elastic. Shape into a ball, brush with oil, cover with a warm bowl, and let it rest for 30 to 60 minutes. This rest is crucial for elasticity. 
+
+2. Prepare the Filling
+In a large bowl, mix the sliced apples with sugar, cinnamon, lemon zest, pine nuts, and drained raisins. In a small pan, melt the butter and brown the breadcrumbs—this layer is essential to absorb the apple juices and keep the pastry crispy. 
+
+3. Stretch the Pastry (The Artistic Part)
+Place a large clean tablecloth on your table and flour it lightly. Roll out the dough as thin as possible with a rolling pin. Then, use the back of your hands to gently pull the dough from the center outwards until it is translucent (you should be able to see the pattern of the tablecloth through it). 
+
+4. Assembly
+Brush the dough with melted butter.
+Spread the toasted breadcrumbs over two-thirds of the pastry.
+Pile the apple mixture over the breadcrumbs.
+Fold in the side edges to seal the ends.
+Using the tablecloth, carefully roll up the strudel. 
+
+5. Baking
+Place the strudel on a baking sheet lined with parchment paper. Brush the top with more melted butter. Bake in a preheated oven at 350°F (180°C) for about 35-45 minutes until golden brown. 
+
+Serving Suggestion
+Let it cool slightly and dust with powdered sugar. In the Dolomites, it is almost always served with a warm Vanilla Custard Sauce or a dollop of whipped cream.
+"""
+        },
       ];
     } else if (countryName == "Portugal") {
       return [
@@ -568,8 +614,6 @@ Pro Tips for the Best Result
         },
       ];
 
-    }
-      ];
     } else if (countryName == "Morocco" || countryName == "Spain" || countryName == "India" || countryName == "Lebanon" || countryName == "Mexico" || countryName == "China" || countryName == "Canada") {
       return [
         {
