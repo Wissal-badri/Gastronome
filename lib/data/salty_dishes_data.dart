@@ -452,8 +452,6 @@ Instructions:
 """
         },
       ];
-    }
-      ];
     } else if (countryName == "USA" || countryName == "Spain" || countryName == "Turkey" || countryName == "India" || countryName == "Lebanon" || countryName == "Mexico" || countryName == "China" || countryName == "Portugal" || countryName == "England") {
       return [
         {

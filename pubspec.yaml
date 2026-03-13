@@ -60,6 +60,7 @@ flutter:
 
   assets:
     - assets/
+    - assets/logo/
     - assets/Morocco/
     - assets/France/
     - assets/Italy/

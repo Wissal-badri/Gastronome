@@ -464,7 +464,6 @@ Serve warm, dusted with cinnamon and powdered sugar. To get the best results, us
         {
           "name": "Arroz Doce",
           "desc": "Traditional sweet rice pudding with lemon and cinnamon.",
-          "image": "assets/Portugal/ArrozDocePT.png",
           "fullRecipe": """
 Arroz Doce (Portuguese Rice Pudding)
 Creamy, comforting rice pudding decorated with cinnamon patterns.
@@ -492,7 +491,6 @@ Instructions
         {
           "name": "Bola de Berlim",
           "desc": "Fluffy fried doughnut filled with rich egg cream.",
-          "image": "assets/Portugal/BolaDeBerlimPT.png",
           "fullRecipe": """
 Bola de Berlim (Portuguese Doughnut)
 A beachside favorite! Fried dough rolled in sugar and stuffed with yellow custard.
